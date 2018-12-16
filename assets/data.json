@@ -80,15 +80,43 @@
   }],
   "languages": [{
       "id": 1,
-      "name": "Hindi"
+      "name": "Hindi",
+      "category": "Chapter by Chapter View"
     },
     {
       "id": 2,
-      "name": "Telugu"
+      "name": "Telugu",
+      "category": "Chapter by Chapter View"
     },
     {
       "id": 3,
-      "name": "English"
+      "name": "English",
+      "category": "Chapter by Chapter View"
+    },
+    {
+      "id": 4,
+      "name": "French",
+      "category": "Complete View"
+    },
+    {
+      "id": 5,
+      "name": "Kannada",
+      "category": "Complete View"
+    },
+    {
+      "id": 6,
+      "name": "Marathi",
+      "category": "Complete View"
+    },
+    {
+      "id": 7,
+      "name": "Tamil",
+      "category": "Complete View"
+    },
+    {
+      "id": 8,
+      "name": "Urdu",
+      "category": "Complete View"
     }
   ],
   "satcharitras": [{
@@ -819,6 +847,56 @@
           "url": "../assets/pdfs/english/50.pdf"
         }
       ]
+    },
+    {
+      "id": "4",    
+      "language": "French",
+      "chapters": [
+          {
+            "id": "1", 
+            "title": "Shri Sai Satachitra", 
+            "url": "../assets/pdfs/french/complete.pdf"
+          }]
+    },
+    {
+      "id": "5",    
+      "language": "Kannada",
+      "chapters": [
+          {
+            "id": "1", 
+            "title": "ಶ್ರೀ ಸಾಯಿ ಸಚ್ಚರಿತ್ರಾ", 
+            "url": "../assets/pdfs/kannada/complete.pdf"
+          }]
+    },
+    {
+      "id": "6",    
+      "language": "Marathi",
+      "chapters": [
+          {
+            "id": "1", 
+            "title": "श्री साई सतचित्र", 
+            "url": "../assets/pdfs/marathi/complete.pdf"
+          }]
+    },
+    {
+      "id": "7",    
+      "language": "Tamil",
+      "chapters": [
+          {
+            "id": "1", 
+            "title": "ஸ்ரீ சாய் சாத்திரச்சேரி", 
+            "url": "../assets/pdfs/tamil/complete.pdf"
+          }]
+    },
+    {
+      "id": "8",    
+      "language": "Urdu",
+      "chapters": [
+          {
+            "id": "1", 
+            "title": "سری سایچرٹر", 
+            "url": "../assets/pdfs/urdu/complete.pdf"
+          }]
     }
   ]
 }

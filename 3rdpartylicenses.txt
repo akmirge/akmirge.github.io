@@ -303,6 +303,9 @@ THE SOFTWARE.
 @angular/router
 MIT
 
+@ng-select/ng-select
+MIT
+
 zone.js
 MIT
 The MIT License
