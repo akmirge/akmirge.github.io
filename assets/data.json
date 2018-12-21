@@ -78,46 +78,96 @@
     "url": "../assets/images/AnilMirge.jpg",
     "alt": "ANIL MIRGE"
   }],
+  "navGuruwarImages": [
+    {
+      "id": 1,
+      "url": "../assets/images/saibaba1.jpg",
+      "alt": "SAI BABA"
+    },
+    {
+      "id": 2,
+      "url": "../assets/images/saibaba2.jpg",
+      "alt": "SAI BABA"
+    },
+    {
+      "id": 3,
+      "url": "../assets/images/saibaba3.jpg",
+      "alt": "SAI BABA"
+    }],
+  "navGuruwarLanguages": [{
+    "id": 1,
+    "name": "Hindi",
+    "url": "../assets/pdfs/navguruwar/hindi/sai_vrat.pdf"
+  },
+  {
+    "id": 2,
+    "name": "Telugu",
+    "url": "../assets/pdfs/navguruwar/telugu/sai_vrat.pdf"
+  },
+  {
+    "id": 3,
+    "name": "English",
+    "url": "../assets/pdfs/navguruwar/english/sai_vrat.pdf"
+  }],
   "languages": [{
       "id": 1,
       "name": "Hindi",
-      "category": "Chapter by Chapter View"
+      "category": "Chapter by Chapter View (PDF)"
     },
     {
       "id": 2,
       "name": "Telugu",
-      "category": "Chapter by Chapter View"
+      "category": "Chapter by Chapter View (PDF)"
     },
     {
       "id": 3,
       "name": "English",
-      "category": "Chapter by Chapter View"
+      "category": "Chapter by Chapter View (PDF)"
     },
     {
       "id": 4,
       "name": "French",
-      "category": "Complete View"
+      "category": "Complete Book (PDF)"
     },
     {
       "id": 5,
       "name": "Kannada",
-      "category": "Complete View"
+      "category": "Complete Book (PDF)"
     },
     {
       "id": 6,
       "name": "Marathi",
-      "category": "Complete View"
+      "category": "Complete Book (PDF)"
     },
     {
       "id": 7,
       "name": "Tamil",
-      "category": "Complete View"
+      "category": "Complete Book (PDF)"
     },
     {
       "id": 8,
+      "name": "Telugu",
+      "category": "Complete Book (PDF)"
+    },
+    {
+      "id": 9,
       "name": "Urdu",
-      "category": "Complete View"
+      "category": "Complete Book (PDF)"
     }
+  ],
+  "youtubeUrls": [
+    "https://www.youtube.com/embed/-ab1VrC5_PE",
+    "https://www.youtube.com/embed/MyNSOu-Fl-k",
+    "https://www.youtube.com/embed/3Hd5cQTo-ZQ",
+    "https://www.youtube.com/embed/B241lEeK_as",
+    "https://www.youtube.com/embed/f5yinkyWErg",
+    "https://www.youtube.com/embed/jfHbBOmM0SE",
+    "https://www.youtube.com/embed/XR3KGYHkrQI",
+    "https://www.youtube.com/embed/IqG1DinnVS4",
+    "https://www.youtube.com/embed/RjF-kBIclMY",
+    "https://www.youtube.com/embed/KWlnuWsPXbE",
+    "https://www.youtube.com/embed/R64LereFCW8",
+    "https://www.youtube.com/embed/p5gV4sF7kic"
   ],
   "satcharitras": [{
       "id": "1",
@@ -890,6 +940,16 @@
     },
     {
       "id": "8",    
+      "language": "Telugu",
+      "chapters": [
+          {
+            "id": "1", 
+            "title": "శ్రీ సాయి సచ్చరిత్రా", 
+            "url": "../assets/pdfs/telugu/complete.pdf"
+          }]
+    },
+    {
+      "id": "9",    
       "language": "Urdu",
       "chapters": [
           {
