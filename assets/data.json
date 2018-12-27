@@ -169,6 +169,87 @@
     "https://www.youtube.com/embed/R64LereFCW8",
     "https://www.youtube.com/embed/p5gV4sF7kic"
   ],
+  "englishBooks": [{
+    "id": 1,
+    "title": "Srimad Bhagavad Gita",
+    "alt": "Srimad Bhagavad Gita",
+    "description": "Srimad Bhagavad Gita As It Is by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.",
+    "imageUrl": "../assets/images/spiritualImages/english/bhagavad-gita.jpeg",
+    "pdfUrl": "../assets/pdfs/spiritialBooks/english/bhagavad-gita.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Bhagavat Purana",
+    "alt": "Bhagavat Purana",
+    "description": "Bhagavat Purana by N. Krishnaswamy.",
+    "imageUrl": "../assets/images/spiritualImages/english/bhagavat-purana.jpg",
+    "pdfUrl": "../assets/pdfs/spiritialBooks/english/bhagavat-purana.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Sundara Kanda",
+    "alt": "Sundara Kanda",
+    "description": "Sundara Kanda - Hanuman's Odyssey by B.S. Murthy.",
+    "imageUrl": "../assets/images/spiritualImages/english/sundara-kanda.jpg",
+    "pdfUrl": "../assets/pdfs/spiritialBooks/english/sundara-kanda.pdf"
+  },
+  {
+    "id": 4,
+    "title": "Parables of Rama",
+    "alt": "Parables of Rama",
+    "description": "Parables of Rama by Swami Rama Tirtha.",
+    "imageUrl": "../assets/images/spiritualImages/english/parables-of-rama.jpg",
+    "pdfUrl": "../assets/pdfs/spiritialBooks/english/parables-of-rama.pdf"
+  },
+  {
+    "id": 5,
+    "title": "The Life and Teaching of Tukaram",
+    "alt": "The Life and Teaching of Tukaram",
+    "description": "The Life and Teaching of Tukaram by J. Nelson Fraser.",
+    "imageUrl": "../assets/images/spiritualImages/english/teaching-of-tukaram.jpg",
+    "pdfUrl": "../assets/pdfs/spiritialBooks/english/teaching-of-tukaram.pdf"
+  },
+  {
+    "id": 6,
+    "title": "Sri Rama Charitra Manas",
+    "alt": "Sri Rama Charitra Manas",
+    "description": "Sri Rama Charitra Manas - The Manasa lake brimming over with the exploits of Sri Rama.",
+    "imageUrl": "../assets/images/spiritualImages/english/sri-ram-charitra-manas.jpg",
+    "pdfUrl": "../assets/pdfs/spiritialBooks/english/sri-ram-charitra-manas.pdf"
+  }
+],
+  "hindiBooks": [{
+    "id": 1,
+    "title": "श्रीमद भगवद गीता यथारूप",
+    "alt": "श्रीमद भगवद गीता यथारूप",
+    "description":"श्रीमद भगवद गीता यथारूप - दिव्य अनुग्रह ए.सी. भक्तिवेदांत स्वामी प्रभुपाद",
+    "imageUrl": "../assets/images/spiritualImages/hindi/bhagavad-gita.jpg",
+    "pdfUrl": "../assets/pdfs/spiritialBooks/hindi/bhagavad-gita.pdf"
+  },
+  {
+    "id": 2,
+    "title": "श्रीमद भगवद गीता",
+    "alt": "श्रीमद भगवद गीता",
+    "description":"श्रीमद भगवद गीता - श्री ए.पी.एम. राज उर्स",
+    "imageUrl": "../assets/images/spiritualImages/hindi/bhagavad-gita-simple.jpg",
+    "pdfUrl": "../assets/pdfs/spiritialBooks/hindi/bhagavad-gita-simple.pdf"
+  }],
+  "teluguBooks": [{
+    "id": 1,
+    "title": "శ్రీమద్ భగవద్గీత",
+    "alt": "శ్రీమద్ భగవద్గీత",
+    "description": "శ్రీమద్ భగవద్గీత - శ్రీ వీర వెంకట సత్యనారాయణ స్వామి",
+    "imageUrl": "../assets/images/spiritualImages/telugu/bhagavad-gita.jpg",
+    "pdfUrl": "../assets/pdfs/spiritialBooks/telugu/bhagavad-gita.pdf"
+  },
+  {
+    "id": 2,
+    "title": "శ్రీమద్ భగవద్గీత సరళమైన తెలుగులో",
+    "alt": "శ్రీమద్ భగవద్గీత సరళమైన తెలుగులో",
+    "description": "శ్రీమద్ భగవద్గీత సరళమైన తెలుగులో - మోడలి వెంకట సుబ్రహ్మణ్యం",
+    "imageUrl": "../assets/images/spiritualImages/telugu/bhagavad-gita-simple.jpg",
+    "pdfUrl": "../assets/pdfs/spiritialBooks/telugu/bhagavad-gita-simple.pdf"
+  }],
   "satcharitras": [{
       "id": "1",
       "language": "Hindi",
