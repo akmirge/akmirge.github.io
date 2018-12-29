@@ -146,11 +146,6 @@
     },
     {
       "id": 8,
-      "name": "Telugu",
-      "category": "Complete Book (PDF)"
-    },
-    {
-      "id": 9,
       "name": "Urdu",
       "category": "Complete Book (PDF)"
     }
@@ -169,6 +164,38 @@
     "https://www.youtube.com/embed/R64LereFCW8",
     "https://www.youtube.com/embed/p5gV4sF7kic"
   ],
+  "saibabaAartis": [{
+    "id": 1,
+    "title": "Sri Saibaba Kakad Aarti",
+    "alt": "Sri Saibaba Kakad Aarti",
+    "description": "Srimad Bhagavad Gita As It Is by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.",
+    "imageUrl": "../assets/images/spiritualImages/saibabaAartis/kakad_aarti.jpg",
+    "audioUrl": "../assets/songs/sai_baba_kakad_aarti.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Sri Saibaba Madhyaan Aarti",
+    "alt": "Sri Saibaba Madhyaan Aarti",
+    "description": "Srimad Bhagavad Gita As It Is by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.",
+    "imageUrl": "../assets/images/spiritualImages/saibabaAartis/madhyaan_aarti.jpg",
+    "audioUrl": "../assets/songs/sai_baba_madhyaan_aarti.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Sri Saibaba Dhoop Aarti",
+    "alt": "Sri Saibaba Dhoop Aarti",
+    "description": "Srimad Bhagavad Gita As It Is by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.",
+    "imageUrl": "../assets/images/spiritualImages/saibabaAartis/dhoop_aarti.jpg",
+    "audioUrl": "../assets/songs/sai_baba_dhoop_aarti.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Sri Saibaba Shej Aarti",
+    "alt": "Sri Saibaba Shej Aarti",
+    "description": "Srimad Bhagavad Gita As It Is by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.",
+    "imageUrl": "../assets/images/spiritualImages/saibabaAartis/shej_aarti.jpg",
+    "audioUrl": "../assets/songs/sai_baba_shej_aarti.mp3"
+  }],
   "englishBooks": [{
     "id": 1,
     "title": "Srimad Bhagavad Gita",
