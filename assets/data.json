@@ -109,6 +109,18 @@
     "name": "English",
     "url": "../assets/pdfs/navguruwar/english/sai_vrat.pdf"
   }],
+  "spiritualLanguages": [{
+    "id": 1,
+    "name": "Hindi"
+  },
+  {
+    "id": 2,
+    "name": "Telugu"
+  },
+  {
+    "id": 3,
+    "name": "English"
+  }],
   "languages": [{
       "id": 1,
       "name": "Hindi",
@@ -170,7 +182,7 @@
     "alt": "Sri Saibaba Kakad Aarti",
     "description": "Srimad Bhagavad Gita As It Is by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.",
     "imageUrl": "../assets/images/spiritualImages/saibabaAartis/kakad_aarti.jpg",
-    "audioUrl": "../assets/songs/sai_baba_kakad_aarti.mp3"
+    "audioUrl": "../assets/songs/saibabaAartis/sai_baba_kakad_aarti.mp3"
   },
   {
     "id": 2,
@@ -178,7 +190,7 @@
     "alt": "Sri Saibaba Madhyaan Aarti",
     "description": "Srimad Bhagavad Gita As It Is by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.",
     "imageUrl": "../assets/images/spiritualImages/saibabaAartis/madhyaan_aarti.jpg",
-    "audioUrl": "../assets/songs/sai_baba_madhyaan_aarti.mp3"
+    "audioUrl": "../assets/songs/saibabaAartis/sai_baba_madhyaan_aarti.mp3"
   },
   {
     "id": 3,
@@ -186,7 +198,7 @@
     "alt": "Sri Saibaba Dhoop Aarti",
     "description": "Srimad Bhagavad Gita As It Is by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.",
     "imageUrl": "../assets/images/spiritualImages/saibabaAartis/dhoop_aarti.jpg",
-    "audioUrl": "../assets/songs/sai_baba_dhoop_aarti.mp3"
+    "audioUrl": "../assets/songs/saibabaAartis/sai_baba_dhoop_aarti.mp3"
   },
   {
     "id": 4,
@@ -194,7 +206,297 @@
     "alt": "Sri Saibaba Shej Aarti",
     "description": "Srimad Bhagavad Gita As It Is by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.",
     "imageUrl": "../assets/images/spiritualImages/saibabaAartis/shej_aarti.jpg",
-    "audioUrl": "../assets/songs/sai_baba_shej_aarti.mp3"
+    "audioUrl": "../assets/songs/saibabaAartis/sai_baba_shej_aarti.mp3"
+  }],
+  "bhagvadGitasEnglish": [{
+    "id": 1,
+    "title": "Chapter 1",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Chapter 2",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Chapter 3",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter3.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Chapter 4",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter4.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Chapter 5",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter5.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Chapter 6",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter6.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Chapter 7",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter7.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Chapter 8",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter8.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Chapter 9",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter9.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Chapter 10",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter10.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Chapter 11",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter11.mp3"
+  },
+  {
+    "id": 12,
+    "title": "Chapter 12",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter12.mp3"
+  },
+  {
+    "id": 13,
+    "title": "Chapter 13",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter13.mp3"
+  },
+  {
+    "id": 14,
+    "title": "Chapter 14",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter14.mp3"
+  },
+  {
+    "id": 15,
+    "title": "Chapter 15",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter15.mp3"
+  },
+  {
+    "id": 16,
+    "title": "Chapter 16",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter16.mp3"
+  },
+  {
+    "id": 17,
+    "title": "Chapter 17",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter17.mp3"
+  },
+  {
+    "id": 18,
+    "title": "Chapter 18",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter18.mp3"
+  },
+  {
+    "id": 19,
+    "title": "Summary",
+    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Summary.mp3"
+  }],
+  "bhagvadGitasHindi": [{
+    "id": 1,
+    "title": "Preface",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Prakkathan.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Chapter 1",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter1.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Chapter 2",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter2.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Chapter 3",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter3.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Chapter 4",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter4.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Chapter 5",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter5.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Chapter 6",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter6.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Chapter 7",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter7.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Chapter 8",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter8.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Chapter 9",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter9.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Chapter 10",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter10.mp3"
+  },
+  {
+    "id": 12,
+    "title": "Chapter 11",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter11.mp3"
+  },
+  {
+    "id": 13,
+    "title": "Chapter 12",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter12.mp3"
+  },
+  {
+    "id": 14,
+    "title": "Chapter 13",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter13.mp3"
+  },
+  {
+    "id": 15,
+    "title": "Chapter 14",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter14.mp3"
+  },
+  {
+    "id": 16,
+    "title": "Chapter 15",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter15.mp3"
+  },
+  {
+    "id": 17,
+    "title": "Chapter 16",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter16.mp3"
+  },
+  {
+    "id": 18,
+    "title": "Chapter 17",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter17.mp3"
+  },
+  {
+    "id": 19,
+    "title": "Chapter 18",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter18.mp3"
+  },
+  {
+    "id": 20,
+    "title": "Upasham",
+    "audioUrl": "../assets/songs/bhagvadGitaHindi/Upasham.mp3"
+  }],
+  "bhagvadGitasTelugu": [{
+    "id": 1,
+    "title": "Chapter 1",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Chapter 2",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Chapter 3",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter3.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Chapter 4",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter4.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Chapter 5",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter5.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Chapter 6",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter6.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Chapter 7",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter7.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Chapter 8",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter8.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Chapter 9",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter9.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Chapter 10",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter10.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Chapter 11",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter11.mp3"
+  },
+  {
+    "id": 12,
+    "title": "Chapter 12",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter12.mp3"
+  },
+  {
+    "id": 13,
+    "title": "Chapter 13",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter13.mp3"
+  },
+  {
+    "id": 14,
+    "title": "Chapter 14",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter14.mp3"
+  },
+  {
+    "id": 15,
+    "title": "Chapter 15",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter15.mp3"
+  },
+  {
+    "id": 16,
+    "title": "Chapter 16",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter16.mp3"
+  },
+  {
+    "id": 17,
+    "title": "Chapter 17",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter17.mp3"
+  },
+  {
+    "id": 18,
+    "title": "Chapter 18",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter18.mp3"
+  },
+  {
+    "id": 19,
+    "title": "Upasamhar",
+    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Upasamhar.mp3"
   }],
   "englishBooks": [{
     "id": 1,
