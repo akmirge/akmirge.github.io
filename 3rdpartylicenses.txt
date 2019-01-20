@@ -303,9 +303,6 @@ THE SOFTWARE.
 @angular/router
 MIT
 
-@ng-select/ng-select
-MIT
-
 @angular/cdk
 MIT
 The MIT License
@@ -330,6 +327,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+
+@ng-select/ng-select
+MIT
 
 @angular/material
 MIT
