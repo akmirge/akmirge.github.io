@@ -1358,5 +1358,476 @@
             "url": "../assets/pdfs/urdu/complete.pdf"
           }]
     }
+  ],
+  "vrats":[
+    {
+      "id": 1,
+      "title": "Sankashti Chaturthi Vrat",
+      "description": "Sankata Hara Chaturthi or Sankashti Chaturthi or Sankat Ganesh Chaturthi is observed on the Chaturthi or Chavithi in honor of Lord Ganesha...",
+      "content": "Sankata Hara Chaturthi or Sankashti Chaturthi or Sankat Ganesh Chaturthi is observed on the Chaturthi or Chavithi in honor of Lord Ganesha. \n It is a felicitous Hindu festival which is noticed every month on the “Chaturthi” (Fourth Day) of the Krishna Paksha (the falling phase of moon). It is also known by the name of “Sankat Hara Chaturthi” in the state of Tamil Nadu in India. The most promising and auspicious Sankashti Chaturthi is broached as Angaraki Chaturthi which falls on a Tuesday. \n The lunar months in the Hindu Panchang showcases two Chaturthi Tithis. ‘Sankashti Chaturthi’ falls after Puranmasi or on the full moon day during the Krishna Paksha and ‘Vinayaka Chaturthi’ falls after Amavasya or on the new moon day during the Shukla Paksha. Sankashti Chaturthi is celebrated commonly both in the Northern and Southern states of India. The word “Sankashti” is originated from Sanskrit language which implies “liberation during the difficult times”.",
+      "imageUrl": "../assets/images/spiritualImages/vrats/sankasthi_chaturthi.jpg",
+      "alt": "Sankashti Chaturthi",
+      "vratDates": [
+        {
+          "yearId": 2017,
+          "monthlyDates": [
+            {
+              "month": "January",
+              "date": "15th",
+              "time": "9:16 PM",
+              "day": "Sunday",
+              "vratType": "Lambodara Sankashti Chaturthi"
+            },
+            {
+              "month": "February",
+              "date": "14th",
+              "time": "9:41 PM",
+              "day": "Tuesday",
+              "vratType": "Angarika Sankashti Chaturthi"
+            },
+            {
+              "month": "March",
+              "date": "16th",
+              "time": "10:01 PM",
+              "day": "Thursday",
+              "vratType": "Bhalachandra Sankashti Chaturthi"
+            },
+            {
+              "month": "April",
+              "date": "14th",
+              "time": "9:34 PM",
+              "day": "Saturday",
+              "vratType": "Vikata Sankashti Chaturthi"
+            },
+            {
+              "month": "May",
+              "date": "14th",
+              "time": "9:56 PM",
+              "day": "Sunday",
+              "vratType": "Ekadanta Sankashti Chaturthi"
+            },
+            {
+              "month": "June",
+              "date": "13th",
+              "time": "10:14 PM",
+              "day": "Tuesday",
+              "vratType": "Krishnapingala Sankashti Chaturthi"
+            },
+            {
+              "month": "July",
+              "date": "12th",
+              "time": "9:40 PM",
+              "day": "Wednesday",
+              "vratType": "Gajanana Sankashti Chaturthi"
+            },
+            {
+              "month": "August",
+              "date": "11th",
+              "time": "9:44 PM",
+              "day": "Friday",
+              "vratType": "Heramba Sankashti Chaturthi"
+            },
+            {
+              "month": "September",
+              "date": "9th",
+              "time": "9:09 PM",
+              "day": "Saturday",
+              "vratType": "Vighnaraja Sankashti Chaturthi"
+            },
+            {
+              "month": "October",
+              "date": "8th",
+              "time": "8:38 PM",
+              "day": "Sunday",
+              "vratType": "Vakratunda Sankashti Chaturthi"
+            },
+            {
+              "month": "November",
+              "date": "7th",
+              "time": "9:13 PM",
+              "day": "Tuesday",
+              "vratType": "Ganadhipa Sankashti Chaturthi"
+            },
+            {
+              "month": "December",
+              "date": "6th",
+              "time": "9:01 PM",
+              "day": "Wednesday",
+              "vratType": "Akhuratha Sankashti Chaturthi"
+            }
+          ]
+        },
+        {
+          "yearId": 2018,
+          "monthlyDates": [
+            {
+              "month": "January",
+              "date": "5th",
+              "time": "9:45 PM",
+              "day": "Friday",
+              "vratType": "Lambodara Sankashti Chaturthi"
+            },
+            {
+              "month": "February",
+              "date": "3rd",
+              "time": "9:25 PM",
+              "day": "Saturday",
+              "vratType": "Dwijapriya Sankashti Chaturthi"
+            },
+            {
+              "month": "March",
+              "date": "5th",
+              "time": "9:55 PM",
+              "day": "Monday",
+              "vratType": "Bhalachandra Sankashti Chaturthi"
+            },
+            {
+              "month": "April",
+              "date": "3rd",
+              "time": "9:25 PM",
+              "day": "Tuesday",
+              "vratType": "Vikata Sankashti Chaturthi"
+            },
+            {
+              "month": "May",
+              "date": "3rd",
+              "time": "9:52 PM",
+              "day": "Thursday",
+              "vratType": "Ekadanta Sankashti Chaturthi"
+            },
+            {
+              "month": "June",
+              "date": "2nd",
+              "time": "10:12 PM",
+              "day": "Saturday",
+              "vratType": "Vibhuvana Sankashti Chaturthi"
+            },
+            {
+              "month": "July",
+              "date": "1st",
+              "time": "9:35 PM",
+              "day": "Sunday",
+              "vratType": "Krishnapingala Sankashti Chaturthi"
+            },
+            {
+              "month": "July",
+              "date": "31st",
+              "time": "9:35 PM",
+              "day": "Tuesday",
+              "vratType": "Gajanana Sankashti Chaturthi"
+            },
+            {
+              "month": "August",
+              "date": "30th",
+              "time": "9:30 PM",
+              "day": "Thursday",
+              "vratType": "Heramba Sankashti Chaturthi"
+            },
+            {
+              "month": "September",
+              "date": "28th",
+              "time": "8:52 PM",
+              "day": "Friday",
+              "vratType": "Vighnaraja Sankashti Chaturthi"
+            },
+            {
+              "month": "October",
+              "date": "27th",
+              "time": "8:23 PM",
+              "day": "Saturday",
+              "vratType": "Vakratunda Sankashti Chaturthi"
+            },
+            {
+              "month": "November",
+              "date": "26th",
+              "time": "9:05 PM",
+              "day": "Monday",
+              "vratType": "Ganadhipa Sankashti Chaturthi"
+            },
+            {
+              "month": "December",
+              "date": "25th",
+              "time": "9:00 PM",
+              "day": "Tuesday",
+              "vratType": "Akhuratha Sankashti Chaturthi"
+            }
+          ]
+        },
+        {
+          "yearId": 2019,
+          "monthlyDates": [
+            {
+              "month": "January",
+              "date": "24th",
+              "time": "9:55 PM",
+              "day": "Thursday",
+              "vratType": "Lambodara Sankashti Chaturthi"
+            },
+            {
+              "month": "February",
+              "date": "22nd",
+              "time": "9:37 PM",
+              "day": "Friday",
+              "vratType": "Dwijapriya Sankashti Chaturthi"
+            },
+            {
+              "month": "March",
+              "date": "24th",
+              "time": "10:15 PM",
+              "day": "Sunday",
+              "vratType": "Bhalachandra Sankashti Chaturthi"
+            },
+            {
+              "month": "April",
+              "date": "22nd",
+              "time": "9:55 PM",
+              "day": "Monday",
+              "vratType": "Vikata Sankashti Chaturthi"
+            },
+            {
+              "month": "May",
+              "date": "22nd",
+              "time": "10:25 PM",
+              "day": "Wednesday",
+              "vratType": "Ekadanta Sankashti Chaturthi"
+            },
+            {
+              "month": "June",
+              "date": "20th",
+              "time": "9:53 PM",
+              "day": "Thursday",
+              "vratType": "Krishnapingala Sankashti Chaturthi"
+            },
+            {
+              "month": "July",
+              "date": "20th",
+              "time": "9:52 PM",
+              "day": "Saturday",
+              "vratType": "Gajanana Sankashti Chaturthi"
+            },
+            {
+              "month": "August",
+              "date": "19th",
+              "time": "9:38 PM",
+              "day": "Monday",
+              "vratType": "Heramba Sankashti Chaturthi"
+            },
+            {
+              "month": "September",
+              "date": "17th",
+              "time": "8:50 PM",
+              "day": "Tuesday",
+              "vratType": "Vighnaraja Sankashti Chaturthi"
+            },
+            {
+              "month": "October",
+              "date": "17th",
+              "time": "8:50 PM",
+              "day": "Thursday",
+              "vratType": "Vakratunda Sankashti Chaturthi"
+            },
+            {
+              "month": "November",
+              "date": "15th",
+              "time": "8:24 PM",
+              "day": "Friday",
+              "vratType": "Ganadhipa Sankashti Chaturthi"
+            },
+            {
+              "month": "December",
+              "date": "15th",
+              "time": "9:11 PM",
+              "day": "Sunday",
+              "vratType": "Akhuratha Sankashti Chaturthi"
+            }
+          ]
+        },
+        {
+          "yearId": 2020,
+          "monthlyDates": [
+            {
+              "month": "January",
+              "date": "13th",
+              "time": "8:36 PM",
+              "day": "Monday",
+              "vratType": "Lambodara Sankashti Chaturthi"
+            },
+            {
+              "month": "February",
+              "date": "11th",
+              "time": "8:43 PM",
+              "day": "Tuesday",
+              "vratType": "Dwijapriya Sankashti Chaturthi"
+            },
+            {
+              "month": "March",
+              "date": "12th",
+              "time": "11:00 PM",
+              "day": "Thursday",
+              "vratType": "Bhalachandra Sankashti Chaturthi"
+            },
+            {
+              "month": "April",
+              "date": "10th",
+              "time": "11:03 PM",
+              "day": "Friday",
+              "vratType": "Vikata Sankashti Chaturthi"
+            },
+            {
+              "month": "May",
+              "date": "9th",
+              "time": "11:00 PM",
+              "day": "Saturday",
+              "vratType": "Ekadanta Sankashti Chaturthi"
+            },
+            {
+              "month": "June",
+              "date": "8th",
+              "time": "11:34 PM",
+              "day": "Monday",
+              "vratType": "Krishnapingala Sankashti Chaturthi"
+            },
+            {
+              "month": "July",
+              "date": "8th",
+              "time": "11:20 PM",
+              "day": "Wednesday",
+              "vratType": "Gajanana Sankashti Chaturthi"
+            },
+            {
+              "month": "August",
+              "date": "6th",
+              "time": "10:16 PM",
+              "day": "Thursday",
+              "vratType": "Heramba Sankashti Chaturthi"
+            },
+            {
+              "month": "September",
+              "date": "5th",
+              "time": "9:31 PM",
+              "day": "Saturday",
+              "vratType": "Vighnaraja Sankashti Chaturthi"
+            },
+            {
+              "month": "October",
+              "date": "5th",
+              "time": "8:55 PM",
+              "day": "Monday",
+              "vratType": "Vakratunda Sankashti Chaturthi"
+            },
+            {
+              "month": "November",
+              "date": "3rd",
+              "time": "7:07 PM",
+              "day": "Tuesday",
+              "vratType": "Ganadhipa Sankashti Chaturthi"
+            },
+            {
+              "month": "December",
+              "date": "3rd",
+              "time": "7:34 PM",
+              "day": "Thursday",
+              "vratType": "Akhuratha Sankashti Chaturthi"
+            }
+          ]
+        },
+        {
+          "yearId": 2021,
+          "monthlyDates": [
+            {
+              "month": "January",
+              "date": "2nd",
+              "time": "8:41 PM",
+              "day": "Saturday",
+              "vratType": "Akhuratha Sankashti Chaturthi"
+            },
+            {
+              "month": "January",
+              "date": "31st",
+              "time": "8:48 PM",
+              "day": "Sunday",
+              "vratType": "Lambodara Sankashti Chaturthi"
+            },
+            {
+              "month": "March",
+              "date": "1st",
+              "time": "8:55 PM",
+              "day": "Monday",
+              "vratType": "Dwijapriya Sankashti Chaturthi"
+            },
+            {
+              "month": "March",
+              "date": "31st",
+              "time": "11:20 PM",
+              "day": "Wednesday",
+              "vratType": "Bhalachandra Sankashti Chaturthi"
+            },
+            {
+              "month": "April",
+              "date": "29th",
+              "time": "11:28 PM",
+              "day": "Thrusday",
+              "vratType": "Vikata Sankashti Chaturthi"
+            },
+            {
+              "month": "May",
+              "date": "28th",
+              "time": "11:21 PM",
+              "day": "Friday",
+              "vratType": "Ekadanta Sankashti Chaturthi"
+            },
+            {
+              "month": "June",
+              "date": "27th",
+              "time": "11:32 PM",
+              "day": "Sunday",
+              "vratType": "Krishnapingala Sankashti Chaturthi"
+            },
+            {
+              "month": "July",
+              "date": "26th",
+              "time": "10:32 PM",
+              "day": "Monday",
+              "vratType": "Gajanana Sankashti Chaturthi"
+            },
+            {
+              "month": "August",
+              "date": "25th",
+              "time": "9:48 PM",
+              "day": "Wednesday",
+              "vratType": "Heramba Sankashti Chaturthi"
+            },
+            {
+              "month": "September",
+              "date": "24th",
+              "time": "9:05 PM",
+              "day": "Friday",
+              "vratType": "Vighnaraja Sankashti Chaturthi"
+            },
+            {
+              "month": "October",
+              "date": "23rd",
+              "time": "8:06 PM",
+              "day": "Saturday",
+              "vratType": "Vakratunda Sankashti Chaturthi"
+            },
+            {
+              "month": "November",
+              "date": "22nd",
+              "time": "7:12 PM",
+              "day": "Monday",
+              "vratType": "Ganadhipa Sankashti Chaturthi"
+            },
+            {
+              "month": "December",
+              "date": "22nd",
+              "time": "7:59 PM",
+              "day": "Wednesday",
+              "vratType": "Akhuratha Sankashti Chaturthi"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
