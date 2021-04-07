@@ -1,5 +1,6 @@
 {
-  "aboutImages": [{
+  "aboutImages": [
+    {
       "url": "../assets/about/images/image1.jpg",
       "alt": "Sri Sai in sky, water and earth"
     },
@@ -32,7 +33,8 @@
       "alt": "Beautiful Sai"
     }
   ],
-  "homeImages": [{
+  "homeImages": [
+    {
       "url": "../assets/home/images/image1.jpg",
       "alt": "Sri Sai original picture"
     },
@@ -73,11 +75,13 @@
       "alt": "Sri Sai message on love and serve all"
     }
   ],
-  "profileImages": [{
-    "id": 1,
-    "url": "../assets/images/AnilMirge.jpg",
-    "alt": "ANIL MIRGE"
-  }],
+  "profileImages": [
+    {
+      "id": 1,
+      "url": "../assets/images/AnilMirge.jpg",
+      "alt": "ANIL MIRGE"
+    }
+  ],
   "navGuruwarImages": [
     {
       "id": 1,
@@ -93,35 +97,41 @@
       "id": 3,
       "url": "../assets/images/saibaba3.jpg",
       "alt": "SAI BABA"
-    }],
-  "navGuruwarLanguages": [{
-    "id": 1,
-    "name": "Hindi",
-    "url": "../assets/pdfs/navguruwar/hindi/sai_vrat.pdf"
-  },
-  {
-    "id": 2,
-    "name": "Telugu",
-    "url": "../assets/pdfs/navguruwar/telugu/sai_vrat.pdf"
-  },
-  {
-    "id": 3,
-    "name": "English",
-    "url": "../assets/pdfs/navguruwar/english/sai_vrat.pdf"
-  }],
-  "spiritualLanguages": [{
-    "id": 1,
-    "name": "Hindi"
-  },
-  {
-    "id": 2,
-    "name": "Telugu"
-  },
-  {
-    "id": 3,
-    "name": "English"
-  }],
-  "languages": [{
+    }
+  ],
+  "navGuruwarLanguages": [
+    {
+      "id": 1,
+      "name": "Hindi",
+      "url": "../assets/pdfs/navguruwar/hindi/sai_vrat.pdf"
+    },
+    {
+      "id": 2,
+      "name": "Telugu",
+      "url": "../assets/pdfs/navguruwar/telugu/sai_vrat.pdf"
+    },
+    {
+      "id": 3,
+      "name": "English",
+      "url": "../assets/pdfs/navguruwar/english/sai_vrat.pdf"
+    }
+  ],
+  "spiritualLanguages": [
+    {
+      "id": 1,
+      "name": "Hindi"
+    },
+    {
+      "id": 2,
+      "name": "Telugu"
+    },
+    {
+      "id": 3,
+      "name": "English"
+    }
+  ],
+  "languages": [
+    {
       "id": 1,
       "name": "Hindi",
       "category": "Chapter by Chapter View (PDF)"
@@ -163,426 +173,441 @@
     }
   ],
   "youtubeUrls": [
-    "https://www.youtube.com/embed/-ab1VrC5_PE",
+    "https://www.youtube.com/embed/urTfzfLXhno",
+    "https://www.youtube.com/embed/QFhV4W0ugHQ",
     "https://www.youtube.com/embed/MyNSOu-Fl-k",
-    "https://www.youtube.com/embed/3Hd5cQTo-ZQ",
+    "https://www.youtube.com/embed/dyc7u8V_kB8",
     "https://www.youtube.com/embed/B241lEeK_as",
     "https://www.youtube.com/embed/f5yinkyWErg",
     "https://www.youtube.com/embed/jfHbBOmM0SE",
     "https://www.youtube.com/embed/XR3KGYHkrQI",
-    "https://www.youtube.com/embed/IqG1DinnVS4",
-    "https://www.youtube.com/embed/RjF-kBIclMY",
-    "https://www.youtube.com/embed/KWlnuWsPXbE",
+    "https://www.youtube.com/embed/8NQKfBx2OYQ",
+    "https://www.youtube.com/embed/bvhNaIbcrsw",
     "https://www.youtube.com/embed/R64LereFCW8",
     "https://www.youtube.com/embed/p5gV4sF7kic"
   ],
-  "saibabaAartis": [{
-    "id": 1,
-    "title": "Sri Saibaba Kakad Aarti",
-    "alt": "Sri Saibaba Kakad Aarti",
-    "description": "Sai Baba's teaching included many holy and good things to build a good society. Some of these famous things are charity, contentment, inner peace, and devotion to God and guru. Kakad aarti is usually offered in morning hours.",
-    "imageUrl": "../assets/images/spiritualImages/saibabaAartis/kakad_aarti.jpg",
-    "audioUrl": "../assets/songs/saibabaAartis/sai_baba_kakad_aarti.mp3"
-  },
-  {
-    "id": 2,
-    "title": "Sri Saibaba Madhyaan Aarti",
-    "alt": "Sri Saibaba Madhyaan Aarti",
-    "description": "Listen to Sai Baba madhyan aarti (sai baba afternoon aarti) and attain the divine vide and glory of Shree Sai Baba.",
-    "imageUrl": "../assets/images/spiritualImages/saibabaAartis/madhyaan_aarti.jpg",
-    "audioUrl": "../assets/songs/saibabaAartis/sai_baba_madhyaan_aarti.mp3"
-  },
-  {
-    "id": 3,
-    "title": "Sri Saibaba Dhoop Aarti",
-    "alt": "Sri Saibaba Dhoop Aarti",
-    "description": "Shirdi Sai Baba Dhoop Aarti is an after sunset - evening devotional Aarti addressed to Sai Baba. The divine trance sung in praise of Sai Baba, calls him the giver of happiness and the sole refugee of his downtrodden devotees. In a stage where love and harmony is overpowered with hatred, Sai Baba showers us with immense assurance of his love.",
-    "imageUrl": "../assets/images/spiritualImages/saibabaAartis/dhoop_aarti.jpg",
-    "audioUrl": "../assets/songs/saibabaAartis/sai_baba_dhoop_aarti.mp3"
-  },
-  {
-    "id": 4,
-    "title": "Sri Saibaba Shej Aarti",
-    "alt": "Sri Saibaba Shej Aarti",
-    "description": "Sai Baba's teaching was combination of elements of Hinduism and Islam as his followers were from both Hindu and Muslim community. Sai Baba Shej Aarti is generally sung in night hours. Listening to the Sai Baba Shej Aarti helps add inner peace and joy into your life.",
-    "imageUrl": "../assets/images/spiritualImages/saibabaAartis/shej_aarti.jpg",
-    "audioUrl": "../assets/songs/saibabaAartis/sai_baba_shej_aarti.mp3"
-  }],
-  "bhagvadGitasEnglish": [{
-    "id": 1,
-    "title": "Chapter 1",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter1.mp3"
-  },
-  {
-    "id": 2,
-    "title": "Chapter 2",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter2.mp3"
-  },
-  {
-    "id": 3,
-    "title": "Chapter 3",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter3.mp3"
-  },
-  {
-    "id": 4,
-    "title": "Chapter 4",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter4.mp3"
-  },
-  {
-    "id": 5,
-    "title": "Chapter 5",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter5.mp3"
-  },
-  {
-    "id": 6,
-    "title": "Chapter 6",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter6.mp3"
-  },
-  {
-    "id": 7,
-    "title": "Chapter 7",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter7.mp3"
-  },
-  {
-    "id": 8,
-    "title": "Chapter 8",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter8.mp3"
-  },
-  {
-    "id": 9,
-    "title": "Chapter 9",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter9.mp3"
-  },
-  {
-    "id": 10,
-    "title": "Chapter 10",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter10.mp3"
-  },
-  {
-    "id": 11,
-    "title": "Chapter 11",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter11.mp3"
-  },
-  {
-    "id": 12,
-    "title": "Chapter 12",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter12.mp3"
-  },
-  {
-    "id": 13,
-    "title": "Chapter 13",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter13.mp3"
-  },
-  {
-    "id": 14,
-    "title": "Chapter 14",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter14.mp3"
-  },
-  {
-    "id": 15,
-    "title": "Chapter 15",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter15.mp3"
-  },
-  {
-    "id": 16,
-    "title": "Chapter 16",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter16.mp3"
-  },
-  {
-    "id": 17,
-    "title": "Chapter 17",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter17.mp3"
-  },
-  {
-    "id": 18,
-    "title": "Chapter 18",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter18.mp3"
-  },
-  {
-    "id": 19,
-    "title": "Summary",
-    "audioUrl": "../assets/songs/bhagvadGitaEnglish/Summary.mp3"
-  }],
-  "bhagvadGitasHindi": [{
-    "id": 1,
-    "title": "Preface",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Prakkathan.mp3"
-  },
-  {
-    "id": 2,
-    "title": "Chapter 1",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter1.mp3"
-  },
-  {
-    "id": 3,
-    "title": "Chapter 2",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter2.mp3"
-  },
-  {
-    "id": 4,
-    "title": "Chapter 3",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter3.mp3"
-  },
-  {
-    "id": 5,
-    "title": "Chapter 4",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter4.mp3"
-  },
-  {
-    "id": 6,
-    "title": "Chapter 5",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter5.mp3"
-  },
-  {
-    "id": 7,
-    "title": "Chapter 6",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter6.mp3"
-  },
-  {
-    "id": 8,
-    "title": "Chapter 7",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter7.mp3"
-  },
-  {
-    "id": 9,
-    "title": "Chapter 8",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter8.mp3"
-  },
-  {
-    "id": 10,
-    "title": "Chapter 9",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter9.mp3"
-  },
-  {
-    "id": 11,
-    "title": "Chapter 10",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter10.mp3"
-  },
-  {
-    "id": 12,
-    "title": "Chapter 11",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter11.mp3"
-  },
-  {
-    "id": 13,
-    "title": "Chapter 12",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter12.mp3"
-  },
-  {
-    "id": 14,
-    "title": "Chapter 13",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter13.mp3"
-  },
-  {
-    "id": 15,
-    "title": "Chapter 14",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter14.mp3"
-  },
-  {
-    "id": 16,
-    "title": "Chapter 15",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter15.mp3"
-  },
-  {
-    "id": 17,
-    "title": "Chapter 16",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter16.mp3"
-  },
-  {
-    "id": 18,
-    "title": "Chapter 17",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter17.mp3"
-  },
-  {
-    "id": 19,
-    "title": "Chapter 18",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter18.mp3"
-  },
-  {
-    "id": 20,
-    "title": "Upasham",
-    "audioUrl": "../assets/songs/bhagvadGitaHindi/Upasham.mp3"
-  }],
-  "bhagvadGitasTelugu": [{
-    "id": 1,
-    "title": "Chapter 1",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter1.mp3"
-  },
-  {
-    "id": 2,
-    "title": "Chapter 2",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter2.mp3"
-  },
-  {
-    "id": 3,
-    "title": "Chapter 3",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter3.mp3"
-  },
-  {
-    "id": 4,
-    "title": "Chapter 4",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter4.mp3"
-  },
-  {
-    "id": 5,
-    "title": "Chapter 5",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter5.mp3"
-  },
-  {
-    "id": 6,
-    "title": "Chapter 6",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter6.mp3"
-  },
-  {
-    "id": 7,
-    "title": "Chapter 7",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter7.mp3"
-  },
-  {
-    "id": 8,
-    "title": "Chapter 8",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter8.mp3"
-  },
-  {
-    "id": 9,
-    "title": "Chapter 9",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter9.mp3"
-  },
-  {
-    "id": 10,
-    "title": "Chapter 10",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter10.mp3"
-  },
-  {
-    "id": 11,
-    "title": "Chapter 11",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter11.mp3"
-  },
-  {
-    "id": 12,
-    "title": "Chapter 12",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter12.mp3"
-  },
-  {
-    "id": 13,
-    "title": "Chapter 13",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter13.mp3"
-  },
-  {
-    "id": 14,
-    "title": "Chapter 14",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter14.mp3"
-  },
-  {
-    "id": 15,
-    "title": "Chapter 15",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter15.mp3"
-  },
-  {
-    "id": 16,
-    "title": "Chapter 16",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter16.mp3"
-  },
-  {
-    "id": 17,
-    "title": "Chapter 17",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter17.mp3"
-  },
-  {
-    "id": 18,
-    "title": "Chapter 18",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter18.mp3"
-  },
-  {
-    "id": 19,
-    "title": "Upasamhar",
-    "audioUrl": "../assets/songs/bhagvadGitaTelugu/Upasamhar.mp3"
-  }],
-  "englishBooks": [{
-    "id": 1,
-    "title": "Srimad Bhagavad Gita",
-    "alt": "Srimad Bhagavad Gita",
-    "description": "Srimad Bhagavad Gita As It Is by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.",
-    "imageUrl": "../assets/images/spiritualImages/english/bhagavad-gita.jpeg",
-    "pdfUrl": "../assets/pdfs/spiritialBooks/english/bhagavad-gita.pdf"
-  },
-  {
-    "id": 2,
-    "title": "Bhagavat Purana",
-    "alt": "Bhagavat Purana",
-    "description": "Bhagavat Purana by N. Krishnaswamy.",
-    "imageUrl": "../assets/images/spiritualImages/english/bhagavat-purana.jpg",
-    "pdfUrl": "../assets/pdfs/spiritialBooks/english/bhagavat-purana.pdf"
-  },
-  {
-    "id": 3,
-    "title": "Sundara Kanda",
-    "alt": "Sundara Kanda",
-    "description": "Sundara Kanda - Hanuman's Odyssey by B.S. Murthy.",
-    "imageUrl": "../assets/images/spiritualImages/english/sundara-kanda.jpg",
-    "pdfUrl": "../assets/pdfs/spiritialBooks/english/sundara-kanda.pdf"
-  },
-  {
-    "id": 4,
-    "title": "Parables of Rama",
-    "alt": "Parables of Rama",
-    "description": "Parables of Rama by Swami Rama Tirtha.",
-    "imageUrl": "../assets/images/spiritualImages/english/parables-of-rama.jpg",
-    "pdfUrl": "../assets/pdfs/spiritialBooks/english/parables-of-rama.pdf"
-  },
-  {
-    "id": 5,
-    "title": "The Life and Teaching of Tukaram",
-    "alt": "The Life and Teaching of Tukaram",
-    "description": "The Life and Teaching of Tukaram by J. Nelson Fraser.",
-    "imageUrl": "../assets/images/spiritualImages/english/teaching-of-tukaram.jpg",
-    "pdfUrl": "../assets/pdfs/spiritialBooks/english/teaching-of-tukaram.pdf"
-  },
-  {
-    "id": 6,
-    "title": "Sri Rama Charitra Manas",
-    "alt": "Sri Rama Charitra Manas",
-    "description": "Sri Rama Charitra Manas - The Manasa lake brimming over with the exploits of Sri Rama.",
-    "imageUrl": "../assets/images/spiritualImages/english/sri-ram-charitra-manas.jpg",
-    "pdfUrl": "../assets/pdfs/spiritialBooks/english/sri-ram-charitra-manas.pdf"
-  }
-],
-  "hindiBooks": [{
-    "id": 1,
-    "title": "श्रीमद भगवद गीता यथारूप",
-    "alt": "श्रीमद भगवद गीता यथारूप",
-    "description":"श्रीमद भगवद गीता यथारूप - दिव्य अनुग्रह ए.सी. भक्तिवेदांत स्वामी प्रभुपाद",
-    "imageUrl": "../assets/images/spiritualImages/hindi/bhagavad-gita.jpg",
-    "pdfUrl": "../assets/pdfs/spiritialBooks/hindi/bhagavad-gita.pdf"
-  },
-  {
-    "id": 2,
-    "title": "श्रीमद भगवद गीता",
-    "alt": "श्रीमद भगवद गीता",
-    "description":"श्रीमद भगवद गीता - श्री ए.पी.एम. राज उर्स",
-    "imageUrl": "../assets/images/spiritualImages/hindi/bhagavad-gita-simple.jpg",
-    "pdfUrl": "../assets/pdfs/spiritialBooks/hindi/bhagavad-gita-simple.pdf"
-  }],
-  "teluguBooks": [{
-    "id": 1,
-    "title": "శ్రీమద్ భగవద్గీత",
-    "alt": "శ్రీమద్ భగవద్గీత",
-    "description": "శ్రీమద్ భగవద్గీత - శ్రీ వీర వెంకట సత్యనారాయణ స్వామి",
-    "imageUrl": "../assets/images/spiritualImages/telugu/bhagavad-gita.jpg",
-    "pdfUrl": "../assets/pdfs/spiritialBooks/telugu/bhagavad-gita.pdf"
-  },
-  {
-    "id": 2,
-    "title": "శ్రీమద్ భగవద్గీత సరళమైన తెలుగులో",
-    "alt": "శ్రీమద్ భగవద్గీత సరళమైన తెలుగులో",
-    "description": "శ్రీమద్ భగవద్గీత సరళమైన తెలుగులో - మోడలి వెంకట సుబ్రహ్మణ్యం",
-    "imageUrl": "../assets/images/spiritualImages/telugu/bhagavad-gita-simple.jpg",
-    "pdfUrl": "../assets/pdfs/spiritialBooks/telugu/bhagavad-gita-simple.pdf"
-  }],
-  "satcharitras": [{
+  "saibabaAartis": [
+    {
+      "id": 1,
+      "title": "Sri Saibaba Kakad Aarti",
+      "alt": "Sri Saibaba Kakad Aarti",
+      "description": "Sai Baba's teaching included many holy and good things to build a good society. Some of these famous things are charity, contentment, inner peace, and devotion to God and guru. Kakad aarti is usually offered in morning hours.",
+      "imageUrl": "../assets/images/spiritualImages/saibabaAartis/kakad_aarti.jpg",
+      "audioUrl": "../assets/songs/saibabaAartis/sai_baba_kakad_aarti.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Sri Saibaba Madhyaan Aarti",
+      "alt": "Sri Saibaba Madhyaan Aarti",
+      "description": "Listen to Sai Baba madhyan aarti (sai baba afternoon aarti) and attain the divine vide and glory of Shree Sai Baba.",
+      "imageUrl": "../assets/images/spiritualImages/saibabaAartis/madhyaan_aarti.jpg",
+      "audioUrl": "../assets/songs/saibabaAartis/sai_baba_madhyaan_aarti.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Sri Saibaba Dhoop Aarti",
+      "alt": "Sri Saibaba Dhoop Aarti",
+      "description": "Shirdi Sai Baba Dhoop Aarti is an after sunset - evening devotional Aarti addressed to Sai Baba. The divine trance sung in praise of Sai Baba, calls him the giver of happiness and the sole refugee of his downtrodden devotees. In a stage where love and harmony is overpowered with hatred, Sai Baba showers us with immense assurance of his love.",
+      "imageUrl": "../assets/images/spiritualImages/saibabaAartis/dhoop_aarti.jpg",
+      "audioUrl": "../assets/songs/saibabaAartis/sai_baba_dhoop_aarti.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Sri Saibaba Shej Aarti",
+      "alt": "Sri Saibaba Shej Aarti",
+      "description": "Sai Baba's teaching was combination of elements of Hinduism and Islam as his followers were from both Hindu and Muslim community. Sai Baba Shej Aarti is generally sung in night hours. Listening to the Sai Baba Shej Aarti helps add inner peace and joy into your life.",
+      "imageUrl": "../assets/images/spiritualImages/saibabaAartis/shej_aarti.jpg",
+      "audioUrl": "../assets/songs/saibabaAartis/sai_baba_shej_aarti.mp3"
+    }
+  ],
+  "bhagvadGitasEnglish": [
+    {
+      "id": 1,
+      "title": "Chapter 1",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter1.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Chapter 2",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter2.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Chapter 3",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter3.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Chapter 4",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter4.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Chapter 5",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter5.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Chapter 6",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter6.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Chapter 7",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter7.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Chapter 8",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter8.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Chapter 9",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter9.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Chapter 10",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter10.mp3"
+    },
+    {
+      "id": 11,
+      "title": "Chapter 11",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter11.mp3"
+    },
+    {
+      "id": 12,
+      "title": "Chapter 12",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter12.mp3"
+    },
+    {
+      "id": 13,
+      "title": "Chapter 13",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter13.mp3"
+    },
+    {
+      "id": 14,
+      "title": "Chapter 14",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter14.mp3"
+    },
+    {
+      "id": 15,
+      "title": "Chapter 15",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter15.mp3"
+    },
+    {
+      "id": 16,
+      "title": "Chapter 16",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter16.mp3"
+    },
+    {
+      "id": 17,
+      "title": "Chapter 17",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter17.mp3"
+    },
+    {
+      "id": 18,
+      "title": "Chapter 18",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Chapter18.mp3"
+    },
+    {
+      "id": 19,
+      "title": "Summary",
+      "audioUrl": "../assets/songs/bhagvadGitaEnglish/Summary.mp3"
+    }
+  ],
+  "bhagvadGitasHindi": [
+    {
+      "id": 1,
+      "title": "Preface",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Prakkathan.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Chapter 1",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter1.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Chapter 2",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter2.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Chapter 3",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter3.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Chapter 4",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter4.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Chapter 5",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter5.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Chapter 6",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter6.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Chapter 7",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter7.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Chapter 8",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter8.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Chapter 9",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter9.mp3"
+    },
+    {
+      "id": 11,
+      "title": "Chapter 10",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter10.mp3"
+    },
+    {
+      "id": 12,
+      "title": "Chapter 11",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter11.mp3"
+    },
+    {
+      "id": 13,
+      "title": "Chapter 12",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter12.mp3"
+    },
+    {
+      "id": 14,
+      "title": "Chapter 13",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter13.mp3"
+    },
+    {
+      "id": 15,
+      "title": "Chapter 14",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter14.mp3"
+    },
+    {
+      "id": 16,
+      "title": "Chapter 15",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter15.mp3"
+    },
+    {
+      "id": 17,
+      "title": "Chapter 16",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter16.mp3"
+    },
+    {
+      "id": 18,
+      "title": "Chapter 17",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter17.mp3"
+    },
+    {
+      "id": 19,
+      "title": "Chapter 18",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Chapter18.mp3"
+    },
+    {
+      "id": 20,
+      "title": "Upasham",
+      "audioUrl": "../assets/songs/bhagvadGitaHindi/Upasham.mp3"
+    }
+  ],
+  "bhagvadGitasTelugu": [
+    {
+      "id": 1,
+      "title": "Chapter 1",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter1.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Chapter 2",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter2.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Chapter 3",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter3.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Chapter 4",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter4.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Chapter 5",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter5.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Chapter 6",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter6.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Chapter 7",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter7.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Chapter 8",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter8.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Chapter 9",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter9.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Chapter 10",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter10.mp3"
+    },
+    {
+      "id": 11,
+      "title": "Chapter 11",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter11.mp3"
+    },
+    {
+      "id": 12,
+      "title": "Chapter 12",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter12.mp3"
+    },
+    {
+      "id": 13,
+      "title": "Chapter 13",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter13.mp3"
+    },
+    {
+      "id": 14,
+      "title": "Chapter 14",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter14.mp3"
+    },
+    {
+      "id": 15,
+      "title": "Chapter 15",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter15.mp3"
+    },
+    {
+      "id": 16,
+      "title": "Chapter 16",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter16.mp3"
+    },
+    {
+      "id": 17,
+      "title": "Chapter 17",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter17.mp3"
+    },
+    {
+      "id": 18,
+      "title": "Chapter 18",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Chapter18.mp3"
+    },
+    {
+      "id": 19,
+      "title": "Upasamhar",
+      "audioUrl": "../assets/songs/bhagvadGitaTelugu/Upasamhar.mp3"
+    }
+  ],
+  "englishBooks": [
+    {
+      "id": 1,
+      "title": "Srimad Bhagavad Gita",
+      "alt": "Srimad Bhagavad Gita",
+      "description": "Srimad Bhagavad Gita As It Is by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.",
+      "imageUrl": "../assets/images/spiritualImages/english/bhagavad-gita.jpeg",
+      "pdfUrl": "../assets/pdfs/spiritialBooks/english/bhagavad-gita.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Bhagavat Purana",
+      "alt": "Bhagavat Purana",
+      "description": "Bhagavat Purana by N. Krishnaswamy.",
+      "imageUrl": "../assets/images/spiritualImages/english/bhagavat-purana.jpg",
+      "pdfUrl": "../assets/pdfs/spiritialBooks/english/bhagavat-purana.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Sundara Kanda",
+      "alt": "Sundara Kanda",
+      "description": "Sundara Kanda - Hanuman's Odyssey by B.S. Murthy.",
+      "imageUrl": "../assets/images/spiritualImages/english/sundara-kanda.jpg",
+      "pdfUrl": "../assets/pdfs/spiritialBooks/english/sundara-kanda.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Parables of Rama",
+      "alt": "Parables of Rama",
+      "description": "Parables of Rama by Swami Rama Tirtha.",
+      "imageUrl": "../assets/images/spiritualImages/english/parables-of-rama.jpg",
+      "pdfUrl": "../assets/pdfs/spiritialBooks/english/parables-of-rama.pdf"
+    },
+    {
+      "id": 5,
+      "title": "The Life and Teaching of Tukaram",
+      "alt": "The Life and Teaching of Tukaram",
+      "description": "The Life and Teaching of Tukaram by J. Nelson Fraser.",
+      "imageUrl": "../assets/images/spiritualImages/english/teaching-of-tukaram.jpg",
+      "pdfUrl": "../assets/pdfs/spiritialBooks/english/teaching-of-tukaram.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Sri Rama Charitra Manas",
+      "alt": "Sri Rama Charitra Manas",
+      "description": "Sri Rama Charitra Manas - The Manasa lake brimming over with the exploits of Sri Rama.",
+      "imageUrl": "../assets/images/spiritualImages/english/sri-ram-charitra-manas.jpg",
+      "pdfUrl": "../assets/pdfs/spiritialBooks/english/sri-ram-charitra-manas.pdf"
+    }
+  ],
+  "hindiBooks": [
+    {
+      "id": 1,
+      "title": "श्रीमद भगवद गीता यथारूप",
+      "alt": "श्रीमद भगवद गीता यथारूप",
+      "description": "श्रीमद भगवद गीता यथारूप - दिव्य अनुग्रह ए.सी. भक्तिवेदांत स्वामी प्रभुपाद",
+      "imageUrl": "../assets/images/spiritualImages/hindi/bhagavad-gita.jpg",
+      "pdfUrl": "../assets/pdfs/spiritialBooks/hindi/bhagavad-gita.pdf"
+    },
+    {
+      "id": 2,
+      "title": "श्रीमद भगवद गीता",
+      "alt": "श्रीमद भगवद गीता",
+      "description": "श्रीमद भगवद गीता - श्री ए.पी.एम. राज उर्स",
+      "imageUrl": "../assets/images/spiritualImages/hindi/bhagavad-gita-simple.jpg",
+      "pdfUrl": "../assets/pdfs/spiritialBooks/hindi/bhagavad-gita-simple.pdf"
+    }
+  ],
+  "teluguBooks": [
+    {
+      "id": 1,
+      "title": "శ్రీమద్ భగవద్గీత",
+      "alt": "శ్రీమద్ భగవద్గీత",
+      "description": "శ్రీమద్ భగవద్గీత - శ్రీ వీర వెంకట సత్యనారాయణ స్వామి",
+      "imageUrl": "../assets/images/spiritualImages/telugu/bhagavad-gita.jpg",
+      "pdfUrl": "../assets/pdfs/spiritialBooks/telugu/bhagavad-gita.pdf"
+    },
+    {
+      "id": 2,
+      "title": "శ్రీమద్ భగవద్గీత సరళమైన తెలుగులో",
+      "alt": "శ్రీమద్ భగవద్గీత సరళమైన తెలుగులో",
+      "description": "శ్రీమద్ భగవద్గీత సరళమైన తెలుగులో - మోడలి వెంకట సుబ్రహ్మణ్యం",
+      "imageUrl": "../assets/images/spiritualImages/telugu/bhagavad-gita-simple.jpg",
+      "pdfUrl": "../assets/pdfs/spiritialBooks/telugu/bhagavad-gita-simple.pdf"
+    }
+  ],
+  "satcharitras": [
+    {
       "id": "1",
       "language": "Hindi",
-      "chapters": [{
+      "chapters": [
+        {
           "id": "1",
           "title": "गेहूँ पीसने वाला एक अद्भभुत सन्त वन्दना-गेहूँ पीसने की कथा तथा उसका तात्पर्य ।",
           "url": "../assets/pdfs/hindi/1.pdf"
@@ -824,254 +849,257 @@
         }
       ]
     },
-            {
-      "id": "2",    
+    {
+      "id": "2",
       "language": "Telugu",
       "chapters": [
-          {
-            "id": "1", 
-            "title": "గురు దేవతా స్తుతి – బాబా గోధుమలు పిండి విసిరిన కథ – దాని తత్త్వము. పూర్వసంప్రదాయానుసారము హేమాడ్ పంతు శ్రీ సాయిసత్చరిత్ర గ్రంథమును గురుదేవతాస్తుతితో ప్రారంభించుచున్నారు.", 
-            "url": "../assets/pdfs/telugu/1.pdf"
-          },
-          {
-            "id": "2",
-            "title": "ఈ గ్రంథరచనకు కారణము, పూనుకొనుటకు అసమర్ధతయు ధైర్యము; గొప్పవివాదము; హేమడ్ పంతు అను బిరుదు ప్రదానము; గురువుయొక్క యావశ్యకత.",
-            "url": "../assets/pdfs/telugu/2.pdf"},
-          { 
-             "id": "3",
-             "title": "సాయిబాబా యనుమతియు వాగ్ధానము, భక్తులకొరకు నిర్ణయించిన పని, - బాబా కథలు సముద్రమధ్యమున దీపస్తంభములు - వారి ప్రేమ, రోహిల్లా కథ - వారి మృదుమధురమైనట్టియు యమృతతుల్యమైనట్టియు పల్కులు.", 
-             "url":"../assets/pdfs/telugu/3.pdf"
-          },
-          {
-            "id": "4",
-            "title": "యోగీశ్వరుల కర్తవ్యము - షిరిడీ పుణ్యక్షేత్రము - సాయిబాబా యొక్క రూపురేఖలు - గౌలిబువా గారి వాక్కు - విఠల్ దర్శనము క్షీరసాగరుని కథ - దాసగణు ప్రయాగ స్నానము - సాయిబాబా అయోని సంభవము - షిరిడీకి వారి మొదటిరాక - మూడు బసలు.", 
-            "url": "../assets/pdfs/telugu/4.pdf"
-          },
-          {
-            "id": "5", 
-            "title": "చాంద్ పాటీలు పెండ్లివారితో కలసి బాబా తిరిగి షిరిడీ రాక; సాయీ యని స్వాగతము; ఇతర యోగులతో సహవాసము; పాదుకల చరిత్ర; మొహియుద్దీన్ తో కుస్తి; జీవితములో మార్పు; నీళ్ళను నూనెగా మార్చుట; జౌహర్ అలీ యను కపటగురువు.", 
-            "url": "../assets/pdfs/telugu/5.pdf"
-          },
-          {
-            "id": "6", 
-            "title": "గురువుగారి కరస్పర్శ ప్రభావము - శ్రీరామనవమి యుత్సవము, దాని ప్రభావము, పరిణామము మొదలగునవి, మసీదు మరామతులు.", 
-            "url": "../assets/pdfs/telugu/6.pdf"
-          },
-          {
-            "id": "7", 
-            "title": "అద్భుతావతారము; సాయిబాబా వైఖరి; వారి యోగాభ్యాసము; వారి సర్వాంతర్యామిత్వము; కుష్ఠుభక్తుని సేవ; ఖాపర్డేకొడుకు ప్లేగు సంగతి; పండరీపురము పోవుట.", 
-            "url": "../assets/pdfs/telugu/7.pdf"
-          },
-          {
-            "id": "8", 
-            "title": "మానవజన్మ ప్రాముఖ్యము; సాయిబాబా భిక్షాటనము; బాయిజా బాయి సేవ; సాయిబాబా పడక జాగా; కుశాల్ చంద్ పై వారి ప్రేమ.", 
-            "url": "../assets/pdfs/telugu/8.pdf"
-          },
-          {
-            "id": "9", 
-            "title": "బాబావద్ద సెలవు పుచ్చుకొనునప్పుడు వారి యాజ్ఞను పాలించవలెను. వారి యాజ్ఞకు వ్యతిరేకముగా నడచిన ఫలితములు; కొన్ని ఉదాహరణలు; భిక్ష, దాని యావశ్యకత; భక్తుల యనుభవములు.", 
-            "url": "../assets/pdfs/telugu/9.pdf"
-          },
-          {
-            "id": "10", 
-            "title": "సాయిబాబా జీవితము తీరు; వారి పండుకొను బల్ల; షిరిడీలో వారి నివాసము; వారి బోధలు; వారి యణకువ; అతిసులభ మార్గము.", 
-            "url": "../assets/pdfs/telugu/10.pdf"
-          },
-          {
-            "id": "11", 
-            "title": "సాయి సగుణబ్రహ్మ స్వరూపుడు, డాక్టర్ పండిత్ గారి పూజ; హజీ సిద్దీఖ్ ఫాల్కే; పంచభూతములు స్వాధీనము. \n ఈ అధ్యాయములో సగుణబ్రహ్మముగా నవతరించిన సాయి ఎట్లు పూజింపబడిరో, వారు పంచభూతముల నెట్లు స్వాధీనమందుంచుకొనిరో వర్ణింతును.", 
-            "url": "../assets/pdfs/telugu/11.pdf"
-          },
-          {
-            "id": "12", 
-            "title": "శ్రీ సాయి లీలలు: 1. కాకామహాజని, 2. ధుమాల్ ప్లీడరు, 3. నిమోంకర్ భార్య, 4. ములేశాస్త్రి, 5. ఒక డాక్టరు - వీరి యనుభవములు. \n భక్తులను బాబా ఎట్లు కలుసుకొనేవారో ఎట్లు ఆదరించేవారో ఈ యధ్యాయములో చూచెదము.", 
-            "url": "../assets/pdfs/telugu/12.pdf"
-          },
-          {
-            "id": "13", 
-            "title": "మరికొన్ని సాయిలీలలు, జబ్బులు నయమగుట, 1. భీమాజీపాటీలు 2. బాలాషింపీ 3. బాపుసాహెబు బుట్టీ 4. అళందిస్వామి 5. కాకా మహాజని 6. హార్దానివాసి దత్తోపంతు.", 
-            "url": "../assets/pdfs/telugu/13.pdf"
-          },
-          {
-            "id": "14", 
-            "title": "నాందేడ్ నివాసియగు రతన్ జీ వాడియా, మౌలానాసాహెబు అను యోగి; దక్షిణమీమాంస.", 
-            "url": "../assets/pdfs/telugu/14.pdf"
-          },
-          {
-            "id": "15", 
-            "title": "నారదీయ కీర్తనపద్ధతి; చోల్కరు చక్కెరలేని టీ; రెండు బల్లులు.", 
-            "url": "../assets/pdfs/telugu/15.pdf"
-          },
-          {
-            "id": "16-17", 
-            "title": "బ్రహ్మజ్ఞానమును త్వరగా సంపాదించుట.", 
-            "url": "../assets/pdfs/telugu/16-17.pdf"
-          },
-          {
-            "id": "18-19", 
-            "title": "హేమడ్ పంతును బాబా ఎట్లు ఆమోదించి యాశీర్వదించెను? \n సాఠేగారి కథ; దేశ్ ముఖ్ గారి భార్యకథ; సద్విచారములను ప్రోత్సహించి సాక్షాత్కారమునకు దారిజూపుట; ఉపదేశములో వైవిధ్యము, నిందగూర్చి బోధ, కష్టమునకు కూలి.", 
-            "url": "../assets/pdfs/telugu/18-19.pdf"
-          },
-          {
-            "id": "20", 
-            "title": "కాకా నౌకరిపిల్ల ద్వారా దాసుగణు సమస్య పరిష్కరించుట \n ఈ అధ్యాయములో దాసుగణు సమస్య కాకాసాహెబు పనిపిల్ల ఎట్లు పరిష్కరించెనో హెమడ్ పంతు, చెప్పెను.", 
-            "url": "../assets/pdfs/telugu/20.pdf"
-          },
-          {
-            "id": "21", 
-            "title": "1. వి. హెచ్. ఠాకూరు 2. అనంతరావు పాటంకర్ 3. పండరీ పురము ప్లీడరు - వీరి కథలు. \n ఈ అధ్యాయములో హేమడ్ పంతు వినాయక హరిశ్చంద్ర ఠాకూరు, బి.ఏ.అనంతరావు పాటంకర్ (పూనా), పండరీపురము ప్లీడరు గూర్చిన కథలు చెప్పెను. ఈ కథలన్నియు నానందదాయకమైనవి. ఇవి సరిగా చదివి గ్రహించినచో, ఆధ్యాత్మికమార్గమునకు దారి చూపును.", 
-            "url": "../assets/pdfs/telugu/21.pdf"
-          },
-          {
-            "id": "22", 
-            "title": "పామువిషమునుంచి తప్పించుట \n 1.బాలాసాహెబు మిరీకర్ 2.బాపుసాహెబు బుట్టీ 3.అమీరు శక్కర్ 4.హేమడ్ పంతు \n సర్పములను చంపుటగూర్చి బాబా అభిప్రాయము.", 
-            "url": "../assets/pdfs/telugu/22.pdf"
-          },
-          {
-            "id": "23", 
-            "title": "(నాలుగువదినము పారాయణము – ఆదివారము) \n యోగము – ఉల్లిపాయ \n 1. శ్యామా పాముకాటు బాగగుట. 2. కలరా నియమముల నుల్లంఘించుట. 3. గురుభక్తి పరీక్ష", 
-            "url": "../assets/pdfs/telugu/23.pdf"
-          },
-          {
-            "id": "24", 
-            "title": "బాబా హాస్యము, చమత్కారము, శనగల లీల \n 1.హేమాడ్ పంతు 2.సుదామ 3.అన్నా చించణీకర్, మావిశీ బాయి - కథలు.", 
-            "url": "../assets/pdfs/telugu/24.pdf"
-          },
-          {
-            "id": "25", 
-            "title": "దాము అన్నా కాసార్ (అహమదునగరు) \n 1. సట్టా వ్యాపారము 2. మామిడిపండ్ల కథ.", 
-            "url": "../assets/pdfs/telugu/25.pdf"
-          },
-          {
-            "id": "26", 
-            "title": "1. భక్తపంతు, 2. హరిశ్చంద్ర పితళే, 3. గోపాల అంబాడేకర్.", 
-            "url": "../assets/pdfs/telugu/26.pdf"
-          },
-          {
-            "id": "27", 
-            "title": "భాగవతము విష్ణుసహస్రనామముల నిచ్చి అనుగ్రహించుట \n 1. దీక్షిత్ గారికి విఠల్ దర్శనము 2. గీతారహస్యము 3. ఖాపర్డే దంపతులు \n బాబా మతగ్రంథములను తాకి పవిత్రముచేసి వానిని తన భక్తులకు పారాయణము కొరకు ప్రసాదించుట మొదలగునవి యీ ఆధ్యాయములో చెప్పుకొందుము.", 
-            "url": "../assets/pdfs/telugu/27.pdf"
-          },
-          {
-            "id": "28", 
-            "title": "పిచ్చుకలను షిరిడీకి లాగుట \n 1. లక్ష్మీచంద్ 2. బురహాన్ పూరు మహిళ 3. మేఘశ్యాముడు - కథలు.", 
-            "url": "../assets/pdfs/telugu/28.pdf"
-          },
-          {
-            "id": "29", 
-            "title": "1. మద్రాసు భజన సమాజము, 2. తెండుల్కర్ (తండ్రి - కొడుకులు), 3. డాక్టర్ హాటే, 4. వామన నార్వేకర్ మొదలైన వారి కథలు. \n ఈ యధ్యాయములో రుచికరములు ఆశ్చర్యకరములునైన మరికొన్ని సాయి కథలున్నవి.", 
-            "url": "../assets/pdfs/telugu/29.pdf"
-          },
-          {
-            "id": "30", 
-            "title": "షిరిడీకి లాగుట \n 1. వాణినినాసి కాకాజీ వైద్య, 2. బొంబాయి నివాసి పంజాబి రామలాల్. \n ఈ అధ్యాయములో బాబా షిరిడీకి ఈడ్చిన యిద్దరుభక్తుల వృత్తాంతము చెప్పుకొందుము.", 
-            "url": "../assets/pdfs/telugu/30.pdf"
-          },
-          {
-            "id": "31", 
-            "title": "(ఐదవదినము పారాయణము - సోమవారము) \n బాబా సముఖమున మరణించినవారు \n  \n 1. సన్యాసి విజయానంద్, 2. బాలారామ్ మాన్ కర్, 3. నూల్కర్, 4. మేఘశ్యాముడు, 5. పులి. \n ఈ అధ్యాయములో బాబా సన్నిధిలో కొంతమందితోపాటు ఒక పులికూడ మరణము పొందుటను గూర్చి హేమాడ్ పంతు వర్ణించు చున్నాడు.", 
-            "url": "../assets/pdfs/telugu/31.pdf"
-          },
-          {
-            "id": "32", 
-            "title": "గురుని, దేవుని వెదుకుట; ఉపవాసము నామోదింపకుండుట \n ఈ అధ్యాయములో హేమాడ్ పంతు రెండు విషయములను వర్ణించెను. \n 1. బాబా తన గురువును అడవిలో నెట్లు కలిసెను, వారి ద్వారా దేవుని గనెను. 2. గోఖలేగారి భార్య మూడురోజు లుపవసింప నిశ్చయించుకొనగా నామెచే బాబా యెట్లు బొబ్బట్లు తినిపించెను.", 
-            "url": "../assets/pdfs/telugu/32.pdf"
-          },
-          {
-            "id": "33", 
-            "title": "ఊదీ మహిమ \n 1. తేలుకాటు, ప్లేగు జ్వరములు నయమగుట, 2. జామ్ నేర్ చమత్కారము, 3. నారాయణరావు జబ్బు, 4. బాల బువ సుతార్, 5. అప్పాసాహెబు కులకర్ణి, 6. హరి భాఉ కర్ణిక్ - కథలు. \n గత అధ్యాయములో గురువు మహిమను వర్ణించితిమి. ఇందులో ఊదీ మహిమను వర్ణించెదము.", 
-            "url": "../assets/pdfs/telugu/33.pdf"
-          },
-          {
-            "id": "34", 
-            "title": "ఊదీ మహిమ \n 1. డాక్టరు మేనల్లుడు, 2. డాక్టరు పిళ్ళే, 3. శ్యామా మరదలు, 4. ఇరాని పిల్ల, 5. కూర్దా పెద్దమనిషి, 6. బొంబాయి స్త్రీ - కథలు. \n ఈ అధ్యాయములో కూడ ఊదీ మహిమ వర్ణితము. ఊదీ ధరించి నంత మాత్రమున నెట్టి ఫలములు కలిగెనో చూతము.", 
-            "url": "../assets/pdfs/telugu/34.pdf"
-          },
-          {
-            "id": "35", 
-            "title": "(ఊదీప్రభావము) \n పరీక్షింపబడి లోటులేదని కనుగొనుట \n 1. కాకామహాజని స్నేహితుడు, యజమాని. 2. బాంద్రా అనిద్ర రోగి. 3. బాలాపాటీలు నేవాస్కర్. \n ఈ అధ్యాయములో కూడ ఊదీమహిమ వర్ణితము. ఇందులో బాబా రెండు విషయములలో పరీక్షింపబడి లోపము లేదని కనుగొనబడుట గూడ చెప్పబడినది. బాబాను పరీక్షించు కథలు మొట్టమొదట చెప్పబడును.", 
-            "url": "../assets/pdfs/telugu/35.pdf"
-          },
-          {
-            "id": "36", 
-            "title": "1. ఇద్దరు గోవా పెద్దమనుష్యులు 2. షోలాపూరు నివాసియగు ఔరంగాబాద్ కర్ భార్య - వింత కథలు.", 
-            "url": "../assets/pdfs/telugu/36.pdf"
-          },
-          {
-            "id": "37", 
-            "title": "చావడి యుత్సవము \n హేమాడ్ పంతు ఈ అధ్యాయములో కొన్ని వేదాంతవిషయములు ప్రస్తావించిన పిమ్మట చావడి యుత్సవముగూర్చి వర్ణించుచున్నాడు.", 
-            "url": "../assets/pdfs/telugu/37.pdf"
-          },
-          {
-            "id": "38", 
-            "title": "(ఆరవదినము పారాయణము – మంగళవారము) \n 1. బాబా వంటపాత్ర, 2. దేవాలయమును గౌరవించుట, 3. కాలా లేదా మిశ్రమము, 4. మజ్జిగ \n గత అధ్యాయములో బాబాగారి చావడి యుత్సవము వర్ణించితిమి. ఈ యధ్యాయములో మనము బాబా వంటపాత్ర మొదలగువానిని గుర్చి చదివెదము.", 
-            "url": "../assets/pdfs/telugu/38.pdf"
-          },
-          {
-            "id": "39", 
-            "title": "బాబాగారి సంస్కృత పరిజ్ఞానము \n 1. భగవద్గీత శ్లోకమునకు బాబాగారి యర్ధము. 2. మహాసమాధి మందిర నిర్మాణము \n ఈ యధ్యాయములో భగవద్గీతయందుగల ఒక శ్లోకమునకు బాబా చెప్పిన యర్ధమున్నది. కొందరు బాబాకు సంస్కృతము తెలియదనియు అది నానాసాహెబు చాందోర్కర్ యనువారిదనియు ననుటచే హేమాడ్ పంతు 50వ అధ్యాయములో ఈ సంగతిని విశదీకరించెను. రెండధ్యాయములలోను నొకే విషయ ముండుటచే రెండును నిందులో పొందుపరచనైనవి.", 
-            "url": "../assets/pdfs/telugu/39.pdf"
-          },
-          {"id": "40", 
-            "title": "బాబా కథలు \n 1. దేవుగారి యింటిలో ఉద్యాపనకు బాబా సన్యాసి వేషముతో మరి యిద్దరిని తోడ్కోని పోవుట. 2. హేమాడ్ పంతు ఇంటికి ఫోటో రూపములో పోవుట. \n ఈ యధ్యాయములో రెండు కథలు చెప్పుదుము. 1. దహనులో బి.వి. దేవుగారింటికి వారి తల్లి యాచరించిన ఉద్యాపనపత్రమునకు బాబా వెళ్ళుట. 2. బాంద్రాలోని హేమాడ్ పంతు ఇంటికి హోళీ పండుగనాడు భోజనమునుకు పోవుట.", 
-            "url": "../assets/pdfs/telugu/40.pdf"
-          },
-          {
-            "id": "41", 
-            "title": "1. చిత్రపటము యొక్క వృత్తాంతము, 2. గుడ్డపేలికలను దొంగిలించుట, 3. జ్ఞానేశ్వరి పారాయణము. \n గత అధ్యాయములో చెప్పిన ప్రకారము ఈ ఆధ్యాయములో చిత్రపటముయొక్క వృత్తాంతమును జెప్పెదము. \n గత ఆధ్యాయములోని విషయము జరిగిన 9 సంవత్సరముల తదుపరి అలీ మహమ్మద్ హేమద్పంతును కలిసి ఈ దిగువ కథ నతనికి జెప్పెను.", 
-            "url": "../assets/pdfs/telugu/41.pdf"
-          },
-          {
-            "id": "42", 
-            "title": "బాబా సమాధిచెందుట \n 1. ముందుగా సూచించుట 2. రామచంద్ర దాదా పాటీలు, తాత్యా కోతే పాటీలుల చావులను తప్పించుట 3. లక్ష్మీబాయి శిందేకు దానము 4. చివరి దశ. \n ఈ అధ్యాయములో బాబా తమ దేహమును చాలించిన వృత్తాంతము వర్ణితము.", 
-            "url": "../assets/pdfs/telugu/42.pdf"
-          },
-          {
-            "id": "43-44", 
-            "title": "బాబా సమాధి చెందుట \n 1. సన్నాహము 2. సమాధిమందరిము 3. ఇటుకరాయి విరుగుట 4. 72 గంటల సమాధి 5. జోగుయొక్క సన్యాసము 6. అమృతము వంటి బాబా పలుకులు 43, \n మరియు 44 అధ్యాయములు కూడ బాబా శరీర త్యాగము చేసిన కథనే వర్ణించునవి కనుక వాటినొకచోట చేర్చుట జరిగినది.", 
-            "url": "../assets/pdfs/telugu/43-44.pdf"
-          },
-          {
-            "id": "45", 
-            "title": "1. కాకాసాహెబు సంశయము 2. ఆనందరావు దృశ్యము 3. కఱ్ఱబల్ల మంచము బాబాదే - భక్త మహళ్సాపతిది కాదు.", 
-            "url": "../assets/pdfs/telugu/45.pdf"
-          },
-          {
-            "id": "46", 
-            "title": "బాబా గయవెళ్ళుట - రెండు మేకల కథ \n ఈ అథ్యాయములో శ్యామా కాశి, గయ, ప్రయాగ యాత్రలకు వెళ్ళుట, బాబా ఫోటోరూపమున నతనికంటె ముందు వెళ్ళుట చెప్పెదము. బాబా రెండుమేకల పూర్వజన్మవృత్తాంతమును జ్ఞప్తికి దెచ్చుట గూడ చెప్పుకొందుము.", 
-            "url": "../assets/pdfs/telugu/46.pdf"
-          },
-          {
-            "id": "47", 
-            "title": "బాబాగారి స్మృతులు \n వీరభద్రప్ప, చెన్నబసప్ప (పాము - కప్ప) కథ \n గత అధ్యాయములో రెండు మేకల పూర్వవృత్తాంతమును బాబా వర్ణించెను. ఈ అధ్యాయమున కూడ అట్టి పూర్వవృత్తాంతముల వర్ణించు వీరభద్రప్ప యొక్కయు, చెన్న బసప్ప యొక్కయు కథలు చెప్పుదుము.", 
-            "url": "../assets/pdfs/telugu/47.pdf"
-          },
-          {
-            "id": "48", 
-            "title": "భక్తుల ఆపదలు బాపుట \n 1. షేవడే 2. సపత్నేకరుల కథలు \n ఈ అధ్యాయము ప్రారంభించునప్పు డెవరో హేమడ్ పంతును 'బాబా గురువా? లేక సద్గురువా?' యని ప్రశ్నించిరి. ఆ ప్రశ్నకు సమాధాన మిచ్చుటకై సద్గురువు లక్షణములను హేమడ్ పంతు ఇట్లు వర్ణించుచున్నారు.", 
-            "url": "../assets/pdfs/telugu/48.pdf"
-          },
-          {
-            "id": "49", 
-            "title": "1. హరి కానోబా, 2. సోమదేవ స్వామి, 3. నానాసాహెబు చాందోర్కరు - కథలు.", 
-            "url": "../assets/pdfs/telugu/49.pdf"
-          },
-          {
-            "id": "50", 
-            "title": "1. కాకాసాహెబు దీక్షిత్ 2. టెంబెస్వామి 3. బాలారామ్ ధురంధర్ కథలు. \n సత్చరిత్ర మూలములోని 50వ అధ్యాయము 39వ అధ్యాయములో చేర్చుట జరిగినది. కారణము అందులోని యితివృత్తముగూడ నదియే కనుక. సత్ చరిత్రలోని 51వ అధ్యాయ మిచ్చట 50వ అధ్యాయముగా పరిగణించవలెను.", 
-            "url": "../assets/pdfs/telugu/50.pdf"
-          },
-          {
-            "id": "51", 
-            "title": "సత్చరిత్రములోని 52, 53 అధ్యాయములిందు 51వ అధ్యాయముగా పరిగణించవలెను.", 
-            "url": "../assets/pdfs/telugu/51.pdf"
-          }
+        {
+          "id": "1",
+          "title": "గురు దేవతా స్తుతి – బాబా గోధుమలు పిండి విసిరిన కథ – దాని తత్త్వము. పూర్వసంప్రదాయానుసారము హేమాడ్ పంతు శ్రీ సాయిసత్చరిత్ర గ్రంథమును గురుదేవతాస్తుతితో ప్రారంభించుచున్నారు.",
+          "url": "../assets/pdfs/telugu/1.pdf"
+        },
+        {
+          "id": "2",
+          "title": "ఈ గ్రంథరచనకు కారణము, పూనుకొనుటకు అసమర్ధతయు ధైర్యము; గొప్పవివాదము; హేమడ్ పంతు అను బిరుదు ప్రదానము; గురువుయొక్క యావశ్యకత.",
+          "url": "../assets/pdfs/telugu/2.pdf"
+        },
+        {
+          "id": "3",
+          "title": "సాయిబాబా యనుమతియు వాగ్ధానము, భక్తులకొరకు నిర్ణయించిన పని, - బాబా కథలు సముద్రమధ్యమున దీపస్తంభములు - వారి ప్రేమ, రోహిల్లా కథ - వారి మృదుమధురమైనట్టియు యమృతతుల్యమైనట్టియు పల్కులు.",
+          "url": "../assets/pdfs/telugu/3.pdf"
+        },
+        {
+          "id": "4",
+          "title": "యోగీశ్వరుల కర్తవ్యము - షిరిడీ పుణ్యక్షేత్రము - సాయిబాబా యొక్క రూపురేఖలు - గౌలిబువా గారి వాక్కు - విఠల్ దర్శనము క్షీరసాగరుని కథ - దాసగణు ప్రయాగ స్నానము - సాయిబాబా అయోని సంభవము - షిరిడీకి వారి మొదటిరాక - మూడు బసలు.",
+          "url": "../assets/pdfs/telugu/4.pdf"
+        },
+        {
+          "id": "5",
+          "title": "చాంద్ పాటీలు పెండ్లివారితో కలసి బాబా తిరిగి షిరిడీ రాక; సాయీ యని స్వాగతము; ఇతర యోగులతో సహవాసము; పాదుకల చరిత్ర; మొహియుద్దీన్ తో కుస్తి; జీవితములో మార్పు; నీళ్ళను నూనెగా మార్చుట; జౌహర్ అలీ యను కపటగురువు.",
+          "url": "../assets/pdfs/telugu/5.pdf"
+        },
+        {
+          "id": "6",
+          "title": "గురువుగారి కరస్పర్శ ప్రభావము - శ్రీరామనవమి యుత్సవము, దాని ప్రభావము, పరిణామము మొదలగునవి, మసీదు మరామతులు.",
+          "url": "../assets/pdfs/telugu/6.pdf"
+        },
+        {
+          "id": "7",
+          "title": "అద్భుతావతారము; సాయిబాబా వైఖరి; వారి యోగాభ్యాసము; వారి సర్వాంతర్యామిత్వము; కుష్ఠుభక్తుని సేవ; ఖాపర్డేకొడుకు ప్లేగు సంగతి; పండరీపురము పోవుట.",
+          "url": "../assets/pdfs/telugu/7.pdf"
+        },
+        {
+          "id": "8",
+          "title": "మానవజన్మ ప్రాముఖ్యము; సాయిబాబా భిక్షాటనము; బాయిజా బాయి సేవ; సాయిబాబా పడక జాగా; కుశాల్ చంద్ పై వారి ప్రేమ.",
+          "url": "../assets/pdfs/telugu/8.pdf"
+        },
+        {
+          "id": "9",
+          "title": "బాబావద్ద సెలవు పుచ్చుకొనునప్పుడు వారి యాజ్ఞను పాలించవలెను. వారి యాజ్ఞకు వ్యతిరేకముగా నడచిన ఫలితములు; కొన్ని ఉదాహరణలు; భిక్ష, దాని యావశ్యకత; భక్తుల యనుభవములు.",
+          "url": "../assets/pdfs/telugu/9.pdf"
+        },
+        {
+          "id": "10",
+          "title": "సాయిబాబా జీవితము తీరు; వారి పండుకొను బల్ల; షిరిడీలో వారి నివాసము; వారి బోధలు; వారి యణకువ; అతిసులభ మార్గము.",
+          "url": "../assets/pdfs/telugu/10.pdf"
+        },
+        {
+          "id": "11",
+          "title": "సాయి సగుణబ్రహ్మ స్వరూపుడు, డాక్టర్ పండిత్ గారి పూజ; హజీ సిద్దీఖ్ ఫాల్కే; పంచభూతములు స్వాధీనము. \n ఈ అధ్యాయములో సగుణబ్రహ్మముగా నవతరించిన సాయి ఎట్లు పూజింపబడిరో, వారు పంచభూతముల నెట్లు స్వాధీనమందుంచుకొనిరో వర్ణింతును.",
+          "url": "../assets/pdfs/telugu/11.pdf"
+        },
+        {
+          "id": "12",
+          "title": "శ్రీ సాయి లీలలు: 1. కాకామహాజని, 2. ధుమాల్ ప్లీడరు, 3. నిమోంకర్ భార్య, 4. ములేశాస్త్రి, 5. ఒక డాక్టరు - వీరి యనుభవములు. \n భక్తులను బాబా ఎట్లు కలుసుకొనేవారో ఎట్లు ఆదరించేవారో ఈ యధ్యాయములో చూచెదము.",
+          "url": "../assets/pdfs/telugu/12.pdf"
+        },
+        {
+          "id": "13",
+          "title": "మరికొన్ని సాయిలీలలు, జబ్బులు నయమగుట, 1. భీమాజీపాటీలు 2. బాలాషింపీ 3. బాపుసాహెబు బుట్టీ 4. అళందిస్వామి 5. కాకా మహాజని 6. హార్దానివాసి దత్తోపంతు.",
+          "url": "../assets/pdfs/telugu/13.pdf"
+        },
+        {
+          "id": "14",
+          "title": "నాందేడ్ నివాసియగు రతన్ జీ వాడియా, మౌలానాసాహెబు అను యోగి; దక్షిణమీమాంస.",
+          "url": "../assets/pdfs/telugu/14.pdf"
+        },
+        {
+          "id": "15",
+          "title": "నారదీయ కీర్తనపద్ధతి; చోల్కరు చక్కెరలేని టీ; రెండు బల్లులు.",
+          "url": "../assets/pdfs/telugu/15.pdf"
+        },
+        {
+          "id": "16-17",
+          "title": "బ్రహ్మజ్ఞానమును త్వరగా సంపాదించుట.",
+          "url": "../assets/pdfs/telugu/16-17.pdf"
+        },
+        {
+          "id": "18-19",
+          "title": "హేమడ్ పంతును బాబా ఎట్లు ఆమోదించి యాశీర్వదించెను? \n సాఠేగారి కథ; దేశ్ ముఖ్ గారి భార్యకథ; సద్విచారములను ప్రోత్సహించి సాక్షాత్కారమునకు దారిజూపుట; ఉపదేశములో వైవిధ్యము, నిందగూర్చి బోధ, కష్టమునకు కూలి.",
+          "url": "../assets/pdfs/telugu/18-19.pdf"
+        },
+        {
+          "id": "20",
+          "title": "కాకా నౌకరిపిల్ల ద్వారా దాసుగణు సమస్య పరిష్కరించుట \n ఈ అధ్యాయములో దాసుగణు సమస్య కాకాసాహెబు పనిపిల్ల ఎట్లు పరిష్కరించెనో హెమడ్ పంతు, చెప్పెను.",
+          "url": "../assets/pdfs/telugu/20.pdf"
+        },
+        {
+          "id": "21",
+          "title": "1. వి. హెచ్. ఠాకూరు 2. అనంతరావు పాటంకర్ 3. పండరీ పురము ప్లీడరు - వీరి కథలు. \n ఈ అధ్యాయములో హేమడ్ పంతు వినాయక హరిశ్చంద్ర ఠాకూరు, బి.ఏ.అనంతరావు పాటంకర్ (పూనా), పండరీపురము ప్లీడరు గూర్చిన కథలు చెప్పెను. ఈ కథలన్నియు నానందదాయకమైనవి. ఇవి సరిగా చదివి గ్రహించినచో, ఆధ్యాత్మికమార్గమునకు దారి చూపును.",
+          "url": "../assets/pdfs/telugu/21.pdf"
+        },
+        {
+          "id": "22",
+          "title": "పామువిషమునుంచి తప్పించుట \n 1.బాలాసాహెబు మిరీకర్ 2.బాపుసాహెబు బుట్టీ 3.అమీరు శక్కర్ 4.హేమడ్ పంతు \n సర్పములను చంపుటగూర్చి బాబా అభిప్రాయము.",
+          "url": "../assets/pdfs/telugu/22.pdf"
+        },
+        {
+          "id": "23",
+          "title": "(నాలుగువదినము పారాయణము – ఆదివారము) \n యోగము – ఉల్లిపాయ \n 1. శ్యామా పాముకాటు బాగగుట. 2. కలరా నియమముల నుల్లంఘించుట. 3. గురుభక్తి పరీక్ష",
+          "url": "../assets/pdfs/telugu/23.pdf"
+        },
+        {
+          "id": "24",
+          "title": "బాబా హాస్యము, చమత్కారము, శనగల లీల \n 1.హేమాడ్ పంతు 2.సుదామ 3.అన్నా చించణీకర్, మావిశీ బాయి - కథలు.",
+          "url": "../assets/pdfs/telugu/24.pdf"
+        },
+        {
+          "id": "25",
+          "title": "దాము అన్నా కాసార్ (అహమదునగరు) \n 1. సట్టా వ్యాపారము 2. మామిడిపండ్ల కథ.",
+          "url": "../assets/pdfs/telugu/25.pdf"
+        },
+        {
+          "id": "26",
+          "title": "1. భక్తపంతు, 2. హరిశ్చంద్ర పితళే, 3. గోపాల అంబాడేకర్.",
+          "url": "../assets/pdfs/telugu/26.pdf"
+        },
+        {
+          "id": "27",
+          "title": "భాగవతము విష్ణుసహస్రనామముల నిచ్చి అనుగ్రహించుట \n 1. దీక్షిత్ గారికి విఠల్ దర్శనము 2. గీతారహస్యము 3. ఖాపర్డే దంపతులు \n బాబా మతగ్రంథములను తాకి పవిత్రముచేసి వానిని తన భక్తులకు పారాయణము కొరకు ప్రసాదించుట మొదలగునవి యీ ఆధ్యాయములో చెప్పుకొందుము.",
+          "url": "../assets/pdfs/telugu/27.pdf"
+        },
+        {
+          "id": "28",
+          "title": "పిచ్చుకలను షిరిడీకి లాగుట \n 1. లక్ష్మీచంద్ 2. బురహాన్ పూరు మహిళ 3. మేఘశ్యాముడు - కథలు.",
+          "url": "../assets/pdfs/telugu/28.pdf"
+        },
+        {
+          "id": "29",
+          "title": "1. మద్రాసు భజన సమాజము, 2. తెండుల్కర్ (తండ్రి - కొడుకులు), 3. డాక్టర్ హాటే, 4. వామన నార్వేకర్ మొదలైన వారి కథలు. \n ఈ యధ్యాయములో రుచికరములు ఆశ్చర్యకరములునైన మరికొన్ని సాయి కథలున్నవి.",
+          "url": "../assets/pdfs/telugu/29.pdf"
+        },
+        {
+          "id": "30",
+          "title": "షిరిడీకి లాగుట \n 1. వాణినినాసి కాకాజీ వైద్య, 2. బొంబాయి నివాసి పంజాబి రామలాల్. \n ఈ అధ్యాయములో బాబా షిరిడీకి ఈడ్చిన యిద్దరుభక్తుల వృత్తాంతము చెప్పుకొందుము.",
+          "url": "../assets/pdfs/telugu/30.pdf"
+        },
+        {
+          "id": "31",
+          "title": "(ఐదవదినము పారాయణము - సోమవారము) \n బాబా సముఖమున మరణించినవారు \n  \n 1. సన్యాసి విజయానంద్, 2. బాలారామ్ మాన్ కర్, 3. నూల్కర్, 4. మేఘశ్యాముడు, 5. పులి. \n ఈ అధ్యాయములో బాబా సన్నిధిలో కొంతమందితోపాటు ఒక పులికూడ మరణము పొందుటను గూర్చి హేమాడ్ పంతు వర్ణించు చున్నాడు.",
+          "url": "../assets/pdfs/telugu/31.pdf"
+        },
+        {
+          "id": "32",
+          "title": "గురుని, దేవుని వెదుకుట; ఉపవాసము నామోదింపకుండుట \n ఈ అధ్యాయములో హేమాడ్ పంతు రెండు విషయములను వర్ణించెను. \n 1. బాబా తన గురువును అడవిలో నెట్లు కలిసెను, వారి ద్వారా దేవుని గనెను. 2. గోఖలేగారి భార్య మూడురోజు లుపవసింప నిశ్చయించుకొనగా నామెచే బాబా యెట్లు బొబ్బట్లు తినిపించెను.",
+          "url": "../assets/pdfs/telugu/32.pdf"
+        },
+        {
+          "id": "33",
+          "title": "ఊదీ మహిమ \n 1. తేలుకాటు, ప్లేగు జ్వరములు నయమగుట, 2. జామ్ నేర్ చమత్కారము, 3. నారాయణరావు జబ్బు, 4. బాల బువ సుతార్, 5. అప్పాసాహెబు కులకర్ణి, 6. హరి భాఉ కర్ణిక్ - కథలు. \n గత అధ్యాయములో గురువు మహిమను వర్ణించితిమి. ఇందులో ఊదీ మహిమను వర్ణించెదము.",
+          "url": "../assets/pdfs/telugu/33.pdf"
+        },
+        {
+          "id": "34",
+          "title": "ఊదీ మహిమ \n 1. డాక్టరు మేనల్లుడు, 2. డాక్టరు పిళ్ళే, 3. శ్యామా మరదలు, 4. ఇరాని పిల్ల, 5. కూర్దా పెద్దమనిషి, 6. బొంబాయి స్త్రీ - కథలు. \n ఈ అధ్యాయములో కూడ ఊదీ మహిమ వర్ణితము. ఊదీ ధరించి నంత మాత్రమున నెట్టి ఫలములు కలిగెనో చూతము.",
+          "url": "../assets/pdfs/telugu/34.pdf"
+        },
+        {
+          "id": "35",
+          "title": "(ఊదీప్రభావము) \n పరీక్షింపబడి లోటులేదని కనుగొనుట \n 1. కాకామహాజని స్నేహితుడు, యజమాని. 2. బాంద్రా అనిద్ర రోగి. 3. బాలాపాటీలు నేవాస్కర్. \n ఈ అధ్యాయములో కూడ ఊదీమహిమ వర్ణితము. ఇందులో బాబా రెండు విషయములలో పరీక్షింపబడి లోపము లేదని కనుగొనబడుట గూడ చెప్పబడినది. బాబాను పరీక్షించు కథలు మొట్టమొదట చెప్పబడును.",
+          "url": "../assets/pdfs/telugu/35.pdf"
+        },
+        {
+          "id": "36",
+          "title": "1. ఇద్దరు గోవా పెద్దమనుష్యులు 2. షోలాపూరు నివాసియగు ఔరంగాబాద్ కర్ భార్య - వింత కథలు.",
+          "url": "../assets/pdfs/telugu/36.pdf"
+        },
+        {
+          "id": "37",
+          "title": "చావడి యుత్సవము \n హేమాడ్ పంతు ఈ అధ్యాయములో కొన్ని వేదాంతవిషయములు ప్రస్తావించిన పిమ్మట చావడి యుత్సవముగూర్చి వర్ణించుచున్నాడు.",
+          "url": "../assets/pdfs/telugu/37.pdf"
+        },
+        {
+          "id": "38",
+          "title": "(ఆరవదినము పారాయణము – మంగళవారము) \n 1. బాబా వంటపాత్ర, 2. దేవాలయమును గౌరవించుట, 3. కాలా లేదా మిశ్రమము, 4. మజ్జిగ \n గత అధ్యాయములో బాబాగారి చావడి యుత్సవము వర్ణించితిమి. ఈ యధ్యాయములో మనము బాబా వంటపాత్ర మొదలగువానిని గుర్చి చదివెదము.",
+          "url": "../assets/pdfs/telugu/38.pdf"
+        },
+        {
+          "id": "39",
+          "title": "బాబాగారి సంస్కృత పరిజ్ఞానము \n 1. భగవద్గీత శ్లోకమునకు బాబాగారి యర్ధము. 2. మహాసమాధి మందిర నిర్మాణము \n ఈ యధ్యాయములో భగవద్గీతయందుగల ఒక శ్లోకమునకు బాబా చెప్పిన యర్ధమున్నది. కొందరు బాబాకు సంస్కృతము తెలియదనియు అది నానాసాహెబు చాందోర్కర్ యనువారిదనియు ననుటచే హేమాడ్ పంతు 50వ అధ్యాయములో ఈ సంగతిని విశదీకరించెను. రెండధ్యాయములలోను నొకే విషయ ముండుటచే రెండును నిందులో పొందుపరచనైనవి.",
+          "url": "../assets/pdfs/telugu/39.pdf"
+        },
+        {
+          "id": "40",
+          "title": "బాబా కథలు \n 1. దేవుగారి యింటిలో ఉద్యాపనకు బాబా సన్యాసి వేషముతో మరి యిద్దరిని తోడ్కోని పోవుట. 2. హేమాడ్ పంతు ఇంటికి ఫోటో రూపములో పోవుట. \n ఈ యధ్యాయములో రెండు కథలు చెప్పుదుము. 1. దహనులో బి.వి. దేవుగారింటికి వారి తల్లి యాచరించిన ఉద్యాపనపత్రమునకు బాబా వెళ్ళుట. 2. బాంద్రాలోని హేమాడ్ పంతు ఇంటికి హోళీ పండుగనాడు భోజనమునుకు పోవుట.",
+          "url": "../assets/pdfs/telugu/40.pdf"
+        },
+        {
+          "id": "41",
+          "title": "1. చిత్రపటము యొక్క వృత్తాంతము, 2. గుడ్డపేలికలను దొంగిలించుట, 3. జ్ఞానేశ్వరి పారాయణము. \n గత అధ్యాయములో చెప్పిన ప్రకారము ఈ ఆధ్యాయములో చిత్రపటముయొక్క వృత్తాంతమును జెప్పెదము. \n గత ఆధ్యాయములోని విషయము జరిగిన 9 సంవత్సరముల తదుపరి అలీ మహమ్మద్ హేమద్పంతును కలిసి ఈ దిగువ కథ నతనికి జెప్పెను.",
+          "url": "../assets/pdfs/telugu/41.pdf"
+        },
+        {
+          "id": "42",
+          "title": "బాబా సమాధిచెందుట \n 1. ముందుగా సూచించుట 2. రామచంద్ర దాదా పాటీలు, తాత్యా కోతే పాటీలుల చావులను తప్పించుట 3. లక్ష్మీబాయి శిందేకు దానము 4. చివరి దశ. \n ఈ అధ్యాయములో బాబా తమ దేహమును చాలించిన వృత్తాంతము వర్ణితము.",
+          "url": "../assets/pdfs/telugu/42.pdf"
+        },
+        {
+          "id": "43-44",
+          "title": "బాబా సమాధి చెందుట \n 1. సన్నాహము 2. సమాధిమందరిము 3. ఇటుకరాయి విరుగుట 4. 72 గంటల సమాధి 5. జోగుయొక్క సన్యాసము 6. అమృతము వంటి బాబా పలుకులు 43, \n మరియు 44 అధ్యాయములు కూడ బాబా శరీర త్యాగము చేసిన కథనే వర్ణించునవి కనుక వాటినొకచోట చేర్చుట జరిగినది.",
+          "url": "../assets/pdfs/telugu/43-44.pdf"
+        },
+        {
+          "id": "45",
+          "title": "1. కాకాసాహెబు సంశయము 2. ఆనందరావు దృశ్యము 3. కఱ్ఱబల్ల మంచము బాబాదే - భక్త మహళ్సాపతిది కాదు.",
+          "url": "../assets/pdfs/telugu/45.pdf"
+        },
+        {
+          "id": "46",
+          "title": "బాబా గయవెళ్ళుట - రెండు మేకల కథ \n ఈ అథ్యాయములో శ్యామా కాశి, గయ, ప్రయాగ యాత్రలకు వెళ్ళుట, బాబా ఫోటోరూపమున నతనికంటె ముందు వెళ్ళుట చెప్పెదము. బాబా రెండుమేకల పూర్వజన్మవృత్తాంతమును జ్ఞప్తికి దెచ్చుట గూడ చెప్పుకొందుము.",
+          "url": "../assets/pdfs/telugu/46.pdf"
+        },
+        {
+          "id": "47",
+          "title": "బాబాగారి స్మృతులు \n వీరభద్రప్ప, చెన్నబసప్ప (పాము - కప్ప) కథ \n గత అధ్యాయములో రెండు మేకల పూర్వవృత్తాంతమును బాబా వర్ణించెను. ఈ అధ్యాయమున కూడ అట్టి పూర్వవృత్తాంతముల వర్ణించు వీరభద్రప్ప యొక్కయు, చెన్న బసప్ప యొక్కయు కథలు చెప్పుదుము.",
+          "url": "../assets/pdfs/telugu/47.pdf"
+        },
+        {
+          "id": "48",
+          "title": "భక్తుల ఆపదలు బాపుట \n 1. షేవడే 2. సపత్నేకరుల కథలు \n ఈ అధ్యాయము ప్రారంభించునప్పు డెవరో హేమడ్ పంతును 'బాబా గురువా? లేక సద్గురువా?' యని ప్రశ్నించిరి. ఆ ప్రశ్నకు సమాధాన మిచ్చుటకై సద్గురువు లక్షణములను హేమడ్ పంతు ఇట్లు వర్ణించుచున్నారు.",
+          "url": "../assets/pdfs/telugu/48.pdf"
+        },
+        {
+          "id": "49",
+          "title": "1. హరి కానోబా, 2. సోమదేవ స్వామి, 3. నానాసాహెబు చాందోర్కరు - కథలు.",
+          "url": "../assets/pdfs/telugu/49.pdf"
+        },
+        {
+          "id": "50",
+          "title": "1. కాకాసాహెబు దీక్షిత్ 2. టెంబెస్వామి 3. బాలారామ్ ధురంధర్ కథలు. \n సత్చరిత్ర మూలములోని 50వ అధ్యాయము 39వ అధ్యాయములో చేర్చుట జరిగినది. కారణము అందులోని యితివృత్తముగూడ నదియే కనుక. సత్ చరిత్రలోని 51వ అధ్యాయ మిచ్చట 50వ అధ్యాయముగా పరిగణించవలెను.",
+          "url": "../assets/pdfs/telugu/50.pdf"
+        },
+        {
+          "id": "51",
+          "title": "సత్చరిత్రములోని 52, 53 అధ్యాయములిందు 51వ అధ్యాయముగా పరిగణించవలెను.",
+          "url": "../assets/pdfs/telugu/51.pdf"
+        }
       ]
     },
     {
       "id": "3",
       "language": "English",
-      "chapters": [{
+      "chapters": [
+        {
           "id": "1",
           "title": "The Story of Grinding Wheat and Its Philosophical Significance.",
           "url": "../assets/pdfs/english/1.pdf"
@@ -1309,57 +1337,62 @@
       ]
     },
     {
-      "id": "4",    
+      "id": "4",
       "language": "French",
       "chapters": [
-          {
-            "id": "1", 
-            "title": "Shri Sai Satachitra", 
-            "url": "../assets/pdfs/french/complete.pdf"
-          }]
+        {
+          "id": "1",
+          "title": "Shri Sai Satachitra",
+          "url": "../assets/pdfs/french/complete.pdf"
+        }
+      ]
     },
     {
-      "id": "5",    
+      "id": "5",
       "language": "Kannada",
       "chapters": [
-          {
-            "id": "1", 
-            "title": "ಶ್ರೀ ಸಾಯಿ ಸಚ್ಚರಿತ್ರಾ", 
-            "url": "../assets/pdfs/kannada/complete.pdf"
-          }]
+        {
+          "id": "1",
+          "title": "ಶ್ರೀ ಸಾಯಿ ಸಚ್ಚರಿತ್ರಾ",
+          "url": "../assets/pdfs/kannada/complete.pdf"
+        }
+      ]
     },
     {
-      "id": "6",    
+      "id": "6",
       "language": "Marathi",
       "chapters": [
-          {
-            "id": "1", 
-            "title": "श्री साई सतचित्र", 
-            "url": "../assets/pdfs/marathi/complete.pdf"
-          }]
+        {
+          "id": "1",
+          "title": "श्री साई सतचित्र",
+          "url": "../assets/pdfs/marathi/complete.pdf"
+        }
+      ]
     },
     {
-      "id": "7",    
+      "id": "7",
       "language": "Tamil",
       "chapters": [
-          {
-            "id": "1", 
-            "title": "ஸ்ரீ சாய் சாத்திரச்சேரி", 
-            "url": "../assets/pdfs/tamil/complete.pdf"
-          }]
+        {
+          "id": "1",
+          "title": "ஸ்ரீ சாய் சாத்திரச்சேரி",
+          "url": "../assets/pdfs/tamil/complete.pdf"
+        }
+      ]
     },
     {
-      "id": "8",    
+      "id": "8",
       "language": "Urdu",
       "chapters": [
-          {
-            "id": "1", 
-            "title": "سری سایچرٹر", 
-            "url": "../assets/pdfs/urdu/complete.pdf"
-          }]
+        {
+          "id": "1",
+          "title": "سری سایچرٹر",
+          "url": "../assets/pdfs/urdu/complete.pdf"
+        }
+      ]
     }
   ],
-  "vrats":[
+  "vrats": [
     {
       "id": 1,
       "title": "Sankashti Chaturthi Vrat",
@@ -1368,191 +1401,6 @@
       "imageUrl": "../assets/images/spiritualImages/vrats/sankasthi_chaturthi.jpg",
       "alt": "Sankashti Chaturthi",
       "vratDates": [
-        {
-          "yearId": 2017,
-          "monthlyDates": [
-            {
-              "month": "January",
-              "date": "15th",
-              "time": "9:16 PM",
-              "day": "Sunday",
-              "vratType": "Lambodara Sankashti Chaturthi"
-            },
-            {
-              "month": "February",
-              "date": "14th",
-              "time": "9:41 PM",
-              "day": "Tuesday",
-              "vratType": "Angarika Sankashti Chaturthi"
-            },
-            {
-              "month": "March",
-              "date": "16th",
-              "time": "10:01 PM",
-              "day": "Thursday",
-              "vratType": "Bhalachandra Sankashti Chaturthi"
-            },
-            {
-              "month": "April",
-              "date": "14th",
-              "time": "9:34 PM",
-              "day": "Saturday",
-              "vratType": "Vikata Sankashti Chaturthi"
-            },
-            {
-              "month": "May",
-              "date": "14th",
-              "time": "9:56 PM",
-              "day": "Sunday",
-              "vratType": "Ekadanta Sankashti Chaturthi"
-            },
-            {
-              "month": "June",
-              "date": "13th",
-              "time": "10:14 PM",
-              "day": "Tuesday",
-              "vratType": "Krishnapingala Sankashti Chaturthi"
-            },
-            {
-              "month": "July",
-              "date": "12th",
-              "time": "9:40 PM",
-              "day": "Wednesday",
-              "vratType": "Gajanana Sankashti Chaturthi"
-            },
-            {
-              "month": "August",
-              "date": "11th",
-              "time": "9:44 PM",
-              "day": "Friday",
-              "vratType": "Heramba Sankashti Chaturthi"
-            },
-            {
-              "month": "September",
-              "date": "9th",
-              "time": "9:09 PM",
-              "day": "Saturday",
-              "vratType": "Vighnaraja Sankashti Chaturthi"
-            },
-            {
-              "month": "October",
-              "date": "8th",
-              "time": "8:38 PM",
-              "day": "Sunday",
-              "vratType": "Vakratunda Sankashti Chaturthi"
-            },
-            {
-              "month": "November",
-              "date": "7th",
-              "time": "9:13 PM",
-              "day": "Tuesday",
-              "vratType": "Ganadhipa Sankashti Chaturthi"
-            },
-            {
-              "month": "December",
-              "date": "6th",
-              "time": "9:01 PM",
-              "day": "Wednesday",
-              "vratType": "Akhuratha Sankashti Chaturthi"
-            }
-          ]
-        },
-        {
-          "yearId": 2018,
-          "monthlyDates": [
-            {
-              "month": "January",
-              "date": "5th",
-              "time": "9:45 PM",
-              "day": "Friday",
-              "vratType": "Lambodara Sankashti Chaturthi"
-            },
-            {
-              "month": "February",
-              "date": "3rd",
-              "time": "9:25 PM",
-              "day": "Saturday",
-              "vratType": "Dwijapriya Sankashti Chaturthi"
-            },
-            {
-              "month": "March",
-              "date": "5th",
-              "time": "9:55 PM",
-              "day": "Monday",
-              "vratType": "Bhalachandra Sankashti Chaturthi"
-            },
-            {
-              "month": "April",
-              "date": "3rd",
-              "time": "9:25 PM",
-              "day": "Tuesday",
-              "vratType": "Vikata Sankashti Chaturthi"
-            },
-            {
-              "month": "May",
-              "date": "3rd",
-              "time": "9:52 PM",
-              "day": "Thursday",
-              "vratType": "Ekadanta Sankashti Chaturthi"
-            },
-            {
-              "month": "June",
-              "date": "2nd",
-              "time": "10:12 PM",
-              "day": "Saturday",
-              "vratType": "Vibhuvana Sankashti Chaturthi"
-            },
-            {
-              "month": "July",
-              "date": "1st",
-              "time": "9:35 PM",
-              "day": "Sunday",
-              "vratType": "Krishnapingala Sankashti Chaturthi"
-            },
-            {
-              "month": "July",
-              "date": "31st",
-              "time": "9:35 PM",
-              "day": "Tuesday",
-              "vratType": "Gajanana Sankashti Chaturthi"
-            },
-            {
-              "month": "August",
-              "date": "30th",
-              "time": "9:30 PM",
-              "day": "Thursday",
-              "vratType": "Heramba Sankashti Chaturthi"
-            },
-            {
-              "month": "September",
-              "date": "28th",
-              "time": "8:52 PM",
-              "day": "Friday",
-              "vratType": "Vighnaraja Sankashti Chaturthi"
-            },
-            {
-              "month": "October",
-              "date": "27th",
-              "time": "8:23 PM",
-              "day": "Saturday",
-              "vratType": "Vakratunda Sankashti Chaturthi"
-            },
-            {
-              "month": "November",
-              "date": "26th",
-              "time": "9:05 PM",
-              "day": "Monday",
-              "vratType": "Ganadhipa Sankashti Chaturthi"
-            },
-            {
-              "month": "December",
-              "date": "25th",
-              "time": "9:00 PM",
-              "day": "Tuesday",
-              "vratType": "Akhuratha Sankashti Chaturthi"
-            }
-          ]
-        },
         {
           "yearId": 2019,
           "monthlyDates": [
@@ -1737,92 +1585,455 @@
             {
               "month": "January",
               "date": "2nd",
-              "time": "8:41 PM",
+              "time": "8:07 PM",
               "day": "Saturday",
               "vratType": "Akhuratha Sankashti Chaturthi"
             },
             {
               "month": "January",
               "date": "31st",
-              "time": "8:48 PM",
+              "time": "8:19 PM",
               "day": "Sunday",
               "vratType": "Lambodara Sankashti Chaturthi"
             },
             {
               "month": "March",
               "date": "1st",
-              "time": "8:55 PM",
+              "time": "8:31 PM",
               "day": "Monday",
               "vratType": "Dwijapriya Sankashti Chaturthi"
             },
             {
               "month": "March",
               "date": "31st",
-              "time": "11:20 PM",
+              "time": "11:02 PM",
               "day": "Wednesday",
               "vratType": "Bhalachandra Sankashti Chaturthi"
             },
             {
               "month": "April",
               "date": "29th",
-              "time": "11:28 PM",
+              "time": "11:14 PM",
               "day": "Thrusday",
               "vratType": "Vikata Sankashti Chaturthi"
             },
             {
               "month": "May",
               "date": "28th",
-              "time": "11:21 PM",
+              "time": "11:08 PM",
               "day": "Friday",
               "vratType": "Ekadanta Sankashti Chaturthi"
             },
             {
               "month": "June",
               "date": "27th",
-              "time": "11:32 PM",
+              "time": "11:15 PM",
               "day": "Sunday",
               "vratType": "Krishnapingala Sankashti Chaturthi"
             },
             {
               "month": "July",
               "date": "26th",
-              "time": "10:32 PM",
+              "time": "10:12 PM",
               "day": "Monday",
               "vratType": "Gajanana Sankashti Chaturthi"
             },
             {
               "month": "August",
               "date": "25th",
-              "time": "9:48 PM",
+              "time": "9:22 PM",
               "day": "Wednesday",
-              "vratType": "Heramba Sankashti Chaturthi"
+              "vratType": "Bahula Chaturthi/Heramba Sankashti Chaturthi"
             },
             {
               "month": "September",
               "date": "24th",
-              "time": "9:05 PM",
+              "time": "8:32 PM",
               "day": "Friday",
               "vratType": "Vighnaraja Sankashti Chaturthi"
             },
             {
               "month": "October",
               "date": "23rd",
-              "time": "8:06 PM",
+              "time": "7:30 PM",
               "day": "Saturday",
               "vratType": "Vakratunda Sankashti Chaturthi"
             },
             {
               "month": "November",
               "date": "22nd",
-              "time": "7:12 PM",
+              "time": "6:32 PM",
               "day": "Monday",
               "vratType": "Ganadhipa Sankashti Chaturthi"
             },
             {
               "month": "December",
               "date": "22nd",
-              "time": "7:59 PM",
+              "time": "7:23 PM",
               "day": "Wednesday",
+              "vratType": "Akhuratha Sankashti Chaturthi"
+            }
+          ]
+        },
+        {
+          "yearId": 2022,
+          "monthlyDates": [
+            {
+              "month": "January",
+              "date": "21st",
+              "time": "9:03 PM",
+              "day": "Friday",
+              "vratType": "Lambodara Sankashti Chaturthi"
+            },
+            {
+              "month": "February",
+              "date": "19th",
+              "time": "9:06 PM",
+              "day": "Saturday",
+              "vratType": "Dwijapriya Sankashti Chaturthi"
+            },
+            {
+              "month": "March",
+              "date": "21st",
+              "time": "10:12 PM",
+              "day": "Monday",
+              "vratType": "Bhalachandra Sankashti Chaturthi"
+            },
+            {
+              "month": "April",
+              "date": "19th",
+              "time": "11:39 PM",
+              "day": "Tuesday",
+              "vratType": "Vikata Sankashti Chaturthi"
+            },
+            {
+              "month": "May",
+              "date": "18th",
+              "time": "11:43 PM",
+              "day": "Wednesday",
+              "vratType": "Ekadanta Sankashti Chaturthi"
+            },
+            {
+              "month": "June",
+              "date": "16th",
+              "time": "11:21 PM",
+              "day": "Thursday",
+              "vratType": "Krishnapingala Sankashti Chaturthi"
+            },
+            {
+              "month": "July",
+              "date": "16th",
+              "time": "11:07 PM",
+              "day": "Saturday",
+              "vratType": "Gajanana Sankashti Chaturthi"
+            },
+            {
+              "month": "August",
+              "date": "14th",
+              "time": "9:59 PM",
+              "day": "Sunday",
+              "vratType": "Bahula Chaturthi/Heramba Sankashti Chaturthi"
+            },
+            {
+              "month": "September",
+              "date": "13th",
+              "time": "9:14 PM",
+              "day": "Tuesday",
+              "vratType": "Vighnaraja Sankashti Chaturthi"
+            },
+            {
+              "month": "October",
+              "date": "12th",
+              "time": "8:11 PM",
+              "day": "Wednesday",
+              "vratType": "Vakratunda Sankashti Chaturthi"
+            },
+            {
+              "month": "November",
+              "date": "11th",
+              "time": "7:06 PM",
+              "day": "Friday",
+              "vratType": "Ganadhipa Sankashti Chaturthi"
+            },
+            {
+              "month": "December",
+              "date": "11th",
+              "time": "7:43 PM",
+              "day": "Sunday",
+              "vratType": "Akhuratha Sankashti Chaturthi"
+            }
+          ]
+        },
+        {
+          "yearId": 2023,
+          "monthlyDates": [
+            {
+              "month": "January",
+              "date": "10th",
+              "time": "8:05 PM",
+              "day": "Tuesday",
+              "vratType": "Lambodara Sankashti Chaturthi"
+            },
+            {
+              "month": "February",
+              "date": "8th",
+              "time": "8:03 PM",
+              "day": "Wednesday",
+              "vratType": "Dwijapriya Sankashti Chaturthi"
+            },
+            {
+              "month": "March",
+              "date": "10th",
+              "time": "9:10 PM",
+              "day": "Friday",
+              "vratType": "Bhalachandra Sankashti Chaturthi"
+            },
+            {
+              "month": "April",
+              "date": "9th",
+              "time": "10:21 PM",
+              "day": "Sunday",
+              "vratType": "Vikata Sankashti Chaturthi"
+            },
+            {
+              "month": "May",
+              "date": "8th",
+              "time": "11:45 PM",
+              "day": "Monday",
+              "vratType": "Ekadanta Sankashti Chaturthi"
+            },
+            {
+              "month": "June",
+              "date": "6th",
+              "time": "11:28 PM",
+              "day": "Tuesday",
+              "vratType": "Krishnapingala Sankashti Chaturthi"
+            },
+            {
+              "month": "July",
+              "date": "5th",
+              "time": "10:42 PM",
+              "day": "Wednesday",
+              "vratType": "Gajanana Sankashti Chaturthi"
+            },
+            {
+              "month": "August",
+              "date": "4th",
+              "time": "10:01 PM",
+              "day": "Friday",
+              "vratType": "Vibhuvana Sankashti Chaturthi"
+            },
+            {
+              "month": "September",
+              "date": "2nd",
+              "time": "8:48 PM",
+              "day": "Saturday",
+              "vratType": "Bahula Chaturthi/Heramba Sankashti Chaturthi"
+            },
+            {
+              "month": "October",
+              "date": "2nd",
+              "time": "8:08 PM",
+              "day": "Monday",
+              "vratType": "Vighnaraja Sankashti Chaturthi"
+            },
+            {
+              "month": "October",
+              "date": "31st",
+              "time": "7:19 PM",
+              "day": "Tuesday",
+              "vratType": "Vakratunda Sankashti Chaturthi"
+            },
+            {
+              "month": "November",
+              "date": "30th",
+              "time": "6:54 PM",
+              "day": "Thursday",
+              "vratType": "Ganadhipa Sankashti Chaturthi"
+            },
+            {
+              "month": "December",
+              "date": "30th",
+              "time": "7:55 PM",
+              "day": "Saturday",
+              "vratType": "Akhuratha Sankashti Chaturthi"
+            }
+          ]
+        },
+        {
+          "yearId": 2024,
+          "monthlyDates": [
+            {
+              "month": "January",
+              "date": "28th",
+              "time": "7:50 PM",
+              "day": "Sunday",
+              "vratType": "Lambodara Sankashti Chaturthi"
+            },
+            {
+              "month": "February",
+              "date": "27th",
+              "time": "8:45 PM",
+              "day": "Tuesday",
+              "vratType": "Dwijapriya Sankashti Chaturthi"
+            },
+            {
+              "month": "March",
+              "date": "28th",
+              "time": "10:51 PM",
+              "day": "Thursday",
+              "vratType": "Bhalachandra Sankashti Chaturthi"
+            },
+            {
+              "month": "April",
+              "date": "26th",
+              "time": "10:58 PM",
+              "day": "Friday",
+              "vratType": "Vikata Sankashti Chaturthi"
+            },
+            {
+              "month": "May",
+              "date": "26th",
+              "time": "11:46 PM",
+              "day": "Sunday",
+              "vratType": "Ekadanta Sankashti Chaturthi"
+            },
+            {
+              "month": "June",
+              "date": "24th",
+              "time": "11:01 PM",
+              "day": "Monday",
+              "vratType": "Krishnapingala Sankashti Chaturthi"
+            },
+            {
+              "month": "July",
+              "date": "24th",
+              "time": "9:58 PM",
+              "day": "Wednesday",
+              "vratType": "Gajanana Sankashti Chaturthi"
+            },
+            {
+              "month": "August",
+              "date": "22nd",
+              "time": "9:09 PM",
+              "day": "Thursday",
+              "vratType": "Bahula Chaturthi/Heramba Sankashti Chaturthi"
+            },
+            {
+              "month": "September",
+              "date": "20th",
+              "time": "8:01 PM",
+              "day": "Friday",
+              "vratType": "Vighnaraja Sankashti Chaturthi"
+            },
+            {
+              "month": "October",
+              "date": "20th",
+              "time": "7:50 PM",
+              "day": "Sunday",
+              "vratType": "Vakratunda Sankashti Chaturthi"
+            },
+            {
+              "month": "November",
+              "date": "18th",
+              "time": "6:32 PM",
+              "day": "Monday",
+              "vratType": "Ganadhipa Sankashti Chaturthi"
+            },
+            {
+              "month": "December",
+              "date": "18th",
+              "time": "7:42 PM",
+              "day": "Wednesday",
+              "vratType": "Akhuratha Sankashti Chaturthi"
+            }
+          ]
+        },
+        {
+          "yearId": 2025,
+          "monthlyDates": [
+            {
+              "month": "January",
+              "date": "16th",
+              "time": "7:40 PM",
+              "day": "Thursday",
+              "vratType": "Lambodara Sankashti Chaturthi"
+            },
+            {
+              "month": "February",
+              "date": "15th",
+              "time": "8:36 PM",
+              "day": "Saturday",
+              "vratType": "Dwijapriya Sankashti Chaturthi"
+            },
+            {
+              "month": "March",
+              "date": "17th",
+              "time": "10:33 PM",
+              "day": "Monday",
+              "vratType": "Bhalachandra Sankashti Chaturthi"
+            },
+            {
+              "month": "April",
+              "date": "16th",
+              "time": "11:36 PM",
+              "day": "Wednesday",
+              "vratType": "Vikata Sankashti Chaturthi"
+            },
+            {
+              "month": "May",
+              "date": "15th",
+              "time": "11:24 PM",
+              "day": "Thursday",
+              "vratType": "Ekadanta Sankashti Chaturthi"
+            },
+            {
+              "month": "June",
+              "date": "14th",
+              "time": "11:23 PM",
+              "day": "Saturday",
+              "vratType": "Krishnapingala Sankashti Chaturthi"
+            },
+            {
+              "month": "July",
+              "date": "13th",
+              "time": "10:19 PM",
+              "day": "Sunday",
+              "vratType": "Gajanana Sankashti Chaturthi"
+            },
+            {
+              "month": "August",
+              "date": "12th",
+              "time": "9:07 PM",
+              "day": "Tuesday",
+              "vratType": "Bahula Chaturthi/Heramba Sankashti Chaturthi"
+            },
+            {
+              "month": "September",
+              "date": "10th",
+              "time": "8:20 PM",
+              "day": "Wednesday",
+              "vratType": "Vighnaraja Sankashti Chaturthi"
+            },
+            {
+              "month": "October",
+              "date": "9th",
+              "time": "7:25 PM",
+              "day": "Thursday",
+              "vratType": "Vakratunda Sankashti Chaturthi"
+            },
+            {
+              "month": "November",
+              "date": "8th",
+              "time": "6:59 PM",
+              "day": "Saturday",
+              "vratType": "Ganadhipa Sankashti Chaturthi"
+            },
+            {
+              "month": "December",
+              "date": "7th",
+              "time": "7:06 PM",
+              "day": "Sunday",
               "vratType": "Akhuratha Sankashti Chaturthi"
             }
           ]
