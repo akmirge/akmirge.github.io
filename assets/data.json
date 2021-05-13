@@ -170,6 +170,61 @@
       "id": 8,
       "name": "Urdu",
       "category": "Complete Book (PDF)"
+    },
+    {
+      "id": 9,
+      "name": "Gujarati",
+      "category": "Complete Book (PDF)"
+    },
+    {
+      "id": 10,
+      "name": "Nepali",
+      "category": "Complete Book (PDF)"
+    },
+    {
+      "id": 11,
+      "name": "Odia",
+      "category": "Complete Book (PDF)"
+    },
+    {
+      "id": 12,
+      "name": "Punjabi",
+      "category": "Complete Book (PDF)"
+    },
+    {
+      "id": 13,
+      "name": "Sindhi",
+      "category": "Complete Book (PDF)"
+    },
+    {
+      "id": 14,
+      "name": "Spanish",
+      "category": "Complete Book (PDF)"
+    },
+    {
+      "id": 15,
+      "name": "Assamese",
+      "category": "Complete Book (PDF)"
+    },
+    {
+      "id": 16,
+      "name": "Deutsche",
+      "category": "Complete Book (PDF)"
+    },
+    {
+      "id": 17,
+      "name": "Konkkani",
+      "category": "Complete Book (PDF)"
+    },
+    {
+      "id": 18,
+      "name": "Malayalam",
+      "category": "Complete Book (PDF)"
+    },
+    {
+      "id": 19,
+      "name": "Bengali",
+      "category": "Complete Book (PDF)"
     }
   ],
   "youtubeUrls": [
@@ -1388,6 +1443,127 @@
           "id": "1",
           "title": "سری سایچرٹر",
           "url": "../assets/pdfs/urdu/complete.pdf"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "language": "Gujarati",
+      "chapters": [
+        {
+          "id": "1",
+          "title": "શ્રી સાંઈ સત્યચરિત્ર",
+          "url": "../assets/pdfs/gujarati/complete.pdf"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "language": "Nepali",
+      "chapters": [
+        {
+          "id": "1",
+          "title": "श्री साई सच्चरित्र",
+          "url": "../assets/pdfs/nepali/complete.pdf"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "language": "Odia",
+      "chapters": [
+        {
+          "id": "1",
+          "title": "ଶ୍ରୀ ସାଇ ସତ୍ୟଚନ୍ଦ୍ର",
+          "url": "../assets/pdfs/odia/complete.pdf"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "language": "Punjabi",
+      "chapters": [
+        {
+          "id": "1",
+          "title": "ਸ਼੍ਰੀ ਸਾਈ ਸਤਚਰਿਤ੍ਰ",
+          "url": "../assets/pdfs/punjabi/complete.pdf"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "language": "Sindhi",
+      "chapters": [
+        {
+          "id": "1",
+          "title": "سري سئي سچيٽررا",
+          "url": "../assets/pdfs/sindhi/complete.pdf"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "language": "Spanish",
+      "chapters": [
+        {
+          "id": "1",
+          "title": "Sri Sai Satcharitra",
+          "url": "../assets/pdfs/spanish/complete.pdf"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "language": "Assamese",
+      "chapters": [
+        {
+          "id": "1",
+          "title": "শ্ৰী সাই সতচৰিত্ৰ",
+          "url": "../assets/pdfs/assamese/complete.pdf"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "language": "Deutsche",
+      "chapters": [
+        {
+          "id": "1",
+          "title": "Sri Sai Satcharita",
+          "url": "../assets/pdfs/deutsche/complete.pdf"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "language": "Konkkani",
+      "chapters": [
+        {
+          "id": "1",
+          "title": "श्री साई सच्चरित",
+          "url": "../assets/pdfs/konkkani/complete.pdf"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "language": "Malayalam",
+      "chapters": [
+        {
+          "id": "1",
+          "title": "ശ്രീ സായ് സത്ചരിത്ര",
+          "url": "../assets/pdfs/malayalam/complete.pdf"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "language": "Bengali",
+      "chapters": [
+        {
+          "id": "1",
+          "title": "শ্রী সাঁই সত্যরিত্র",
+          "url": "../assets/pdfs/bengali/complete.pdf"
         }
       ]
     }
